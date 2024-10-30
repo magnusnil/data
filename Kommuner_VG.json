@@ -1666,7 +1666,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Vänersborg"
+				"kommunnamn" : "Vänersborg",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -1743,7 +1744,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Partille"
+				"kommunnamn" : "Partille",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -2275,7 +2277,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Trollhättan"
+				"kommunnamn" : "Trollhättan",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -2677,7 +2680,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lilla Edet"
+				"kommunnamn" : "Lilla Edet",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -4302,7 +4306,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Åmål"
+				"kommunnamn" : "Åmål",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -5198,7 +5203,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Dals-Ed"
+				"kommunnamn" : "Dals-Ed",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -6216,7 +6222,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Falköping"
+				"kommunnamn" : "Falköping",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -8010,7 +8017,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Sotenäs"
+				"kommunnamn" : "Sotenäs",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -8481,7 +8489,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Ulricehamn"
+				"kommunnamn" : "Ulricehamn",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -11951,7 +11960,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lidköping"
+				"kommunnamn" : "Lidköping",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -12617,7 +12627,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Svenljunga"
+				"kommunnamn" : "Svenljunga",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -13405,7 +13416,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Munkedal"
+				"kommunnamn" : "Munkedal",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -18484,7 +18496,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tanum"
+				"kommunnamn" : "Tanum",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -21004,7 +21017,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Kungälv"
+				"kommunnamn" : "Kungälv",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -21764,7 +21778,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Skara"
+				"kommunnamn" : "Skara",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -23524,7 +23539,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Karlsborg"
+				"kommunnamn" : "Karlsborg",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -26145,7 +26161,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Uddevalla"
+				"kommunnamn" : "Uddevalla",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -27593,7 +27610,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Gullspång"
+				"kommunnamn" : "Gullspång",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -27841,7 +27859,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Bollebygd"
+				"kommunnamn" : "Bollebygd",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -28269,7 +28288,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Alingsås"
+				"kommunnamn" : "Alingsås",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -28928,7 +28948,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Töreboda"
+				"kommunnamn" : "Töreboda",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -29692,7 +29713,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Hjo"
+				"kommunnamn" : "Hjo",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -30616,7 +30638,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Stenungsund"
+				"kommunnamn" : "Stenungsund",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -34577,7 +34600,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Strömstad"
+				"kommunnamn" : "Strömstad",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -35818,7 +35842,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mellerud"
+				"kommunnamn" : "Mellerud",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -36080,7 +36105,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Ale"
+				"kommunnamn" : "Ale",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -38973,7 +38999,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lysekil"
+				"kommunnamn" : "Lysekil",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -39957,7 +39984,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Skövde"
+				"kommunnamn" : "Skövde",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -40780,7 +40808,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Härryda"
+				"kommunnamn" : "Härryda",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -43626,7 +43655,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tjörn"
+				"kommunnamn" : "Tjörn",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -43892,7 +43922,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Vårgårda"
+				"kommunnamn" : "Vårgårda",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -44117,7 +44148,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lerum"
+				"kommunnamn" : "Lerum",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -45431,7 +45463,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Öckerö"
+				"kommunnamn" : "Öckerö",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -45913,7 +45946,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Grästorp"
+				"kommunnamn" : "Grästorp",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -47037,7 +47071,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Götene"
+				"kommunnamn" : "Götene",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -47374,7 +47409,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Herrljunga"
+				"kommunnamn" : "Herrljunga",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -51373,7 +51409,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mariestad"
+				"kommunnamn" : "Mariestad",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -52392,7 +52429,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tibro"
+				"kommunnamn" : "Tibro",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -52563,7 +52601,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mölndal"
+				"kommunnamn" : "Mölndal",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -52973,7 +53012,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Essunga"
+				"kommunnamn" : "Essunga",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -56899,7 +56939,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Orust"
+				"kommunnamn" : "Orust",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -60340,7 +60381,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Göteborg"
+				"kommunnamn" : "Göteborg",
+				"Varde_1" : "Gul"
 			}
 		},
 		{
@@ -61056,7 +61098,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Bengtsfors"
+				"kommunnamn" : "Bengtsfors",
+				"Varde_1" : "Röd"
 			}
 		},
 		{
@@ -61493,7 +61536,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tidaholm"
+				"kommunnamn" : "Tidaholm",
+				"Varde_1" : "Grön"
 			}
 		},
 		{
@@ -62153,7 +62197,8 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Vara"
+				"kommunnamn" : "Vara",
+				"Varde_1" : "Grön"
 			}
 		}
 	]
