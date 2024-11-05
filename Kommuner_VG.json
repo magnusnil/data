@@ -1666,8 +1666,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Vänersborg",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Vänersborg",
+				"Kommunkod" : 1487,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -1744,8 +1746,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Partille",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Partille",
+				"Kommunkod" : 1402,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -2277,8 +2281,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Trollhättan",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Trollhättan",
+				"Kommunkod" : 1488,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -2680,8 +2686,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lilla Edet",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Lilla Edet",
+				"Kommunkod" : 1462,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -4306,8 +4314,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Åmål",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Åmål",
+				"Kommunkod" : 1492,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -5203,8 +5213,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Dals-Ed",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Dals-Ed",
+				"Kommunkod" : 1438,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -6222,8 +6234,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Falköping",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Falköping",
+				"Kommunkod" : 1499,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -8017,8 +8031,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Sotenäs",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Sotenäs",
+				"Kommunkod" : 1427,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -8489,8 +8505,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Ulricehamn",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Ulricehamn",
+				"Kommunkod" : 1491,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -11960,8 +11978,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lidköping",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Lidköping",
+				"Kommunkod" : 1494,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -12627,8 +12647,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Svenljunga",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Svenljunga",
+				"Kommunkod" : 1465,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -13416,8 +13438,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Munkedal",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Munkedal",
+				"Kommunkod" : 1430,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -18496,8 +18520,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tanum",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Tanum",
+				"Kommunkod" : 1435,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -21017,8 +21043,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Kungälv",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Kungälv",
+				"Kommunkod" : 1482,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -21778,8 +21806,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Skara",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Skara",
+				"Kommunkod" : 1495,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -23539,8 +23569,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Karlsborg",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Karlsborg",
+				"Kommunkod" : 1446,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -26161,8 +26193,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Uddevalla",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Uddevalla",
+				"Kommunkod" : 1485,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -27610,8 +27644,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Gullspång",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Gullspång",
+				"Kommunkod" : 1447,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -27859,8 +27895,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Bollebygd",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Bollebygd",
+				"Kommunkod" : 1443,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -28288,8 +28326,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Alingsås",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Alingsås",
+				"Kommunkod" : 1489,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -28948,8 +28988,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Töreboda",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Töreboda",
+				"Kommunkod" : 1473,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -29713,8 +29755,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Hjo",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Hjo",
+				"Kommunkod" : 1497,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -30638,8 +30682,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Stenungsund",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Stenungsund",
+				"Kommunkod" : 1415,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -34600,8 +34646,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Strömstad",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Strömstad",
+				"Kommunkod" : 1486,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -35842,8 +35890,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mellerud",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Mellerud",
+				"Kommunkod" : 1461,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -36105,8 +36155,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Ale",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Ale",
+				"Kommunkod" : 1440,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -36506,7 +36558,9 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Färgelanda"
+				"Kommunnamn" : "Färgelanda",
+				"Kommunkod" : 1439,
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -38999,8 +39053,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lysekil",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Lysekil",
+				"Kommunkod" : 1484,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -39984,8 +40040,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Skövde",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Skövde",
+				"Kommunkod" : 1496,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -40529,7 +40587,9 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Borås"
+				"Kommunnamn" : "Borås",
+				"Kommunkod" : 1490,
+				"Ovantat_dodsfall" : "Oväntat dödsfall: Svenska kyrkan"
 			}
 		},
 		{
@@ -40808,8 +40868,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Härryda",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Härryda",
+				"Kommunkod" : 1401,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -43655,8 +43717,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tjörn",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Tjörn",
+				"Kommunkod" : 1419,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -43922,8 +43986,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Vårgårda",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Vårgårda",
+				"Kommunkod" : 1442,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -44148,8 +44214,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Lerum",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Lerum",
+				"Kommunkod" : 1441,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -45463,8 +45531,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Öckerö",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Öckerö",
+				"Kommunkod" : 1407,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -45946,8 +46016,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Grästorp",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Grästorp",
+				"Kommunkod" : 1444,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -47071,8 +47143,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Götene",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Götene",
+				"Kommunkod" : 1471,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -47409,8 +47483,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Herrljunga",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Herrljunga",
+				"Kommunkod" : 1466,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -47896,7 +47972,9 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tranemo"
+				"Kommunnamn" : "Tranemo",
+				"Kommunkod" : 1452,
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -51409,8 +51487,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mariestad",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Mariestad",
+				"Kommunkod" : 1493,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -52036,7 +52116,9 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mark"
+				"Kommunnamn" : "Mark",
+				"Kommunkod" : 1463,
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -52429,8 +52511,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tibro",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Tibro",
+				"Kommunkod" : 1472,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -52601,8 +52685,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Mölndal",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Mölndal",
+				"Kommunkod" : 1481,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -53012,8 +53098,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Essunga",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Essunga",
+				"Kommunkod" : 1445,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -56939,8 +57027,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Orust",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Orust",
+				"Kommunkod" : 1421,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -60381,8 +60471,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Göteborg",
-				"Varde_1" : "Gul"
+				"Kommunnamn" : "Göteborg",
+				"Kommunkod" : 1480,
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "Oväntat dödsfall: Bräcke Diakoni"
 			}
 		},
 		{
@@ -61098,8 +61190,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Bengtsfors",
-				"Varde_1" : "Röd"
+				"Kommunnamn" : "Bengtsfors",
+				"Kommunkod" : 1460,
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -61536,8 +61630,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Tidaholm",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Tidaholm",
+				"Kommunkod" : 1498,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		},
 		{
@@ -62197,8 +62293,10 @@
 				]
 			},
 			"properties" : {
-				"kommunnamn" : "Vara",
-				"Varde_1" : "Grön"
+				"Kommunnamn" : "Vara",
+				"Kommunkod" : 1470,
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "Oväntat dödsfall:"
 			}
 		}
 	]
