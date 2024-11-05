@@ -1667,7 +1667,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vänersborg",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -1745,7 +1746,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Partille",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -2278,7 +2280,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Trollhättan",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -2681,7 +2684,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lilla Edet",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -4307,7 +4311,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Åmål",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -5204,7 +5209,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Dals-Ed",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -6223,7 +6229,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Falköping",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -8018,7 +8025,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Sotenäs",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -8490,7 +8498,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ulricehamn",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -11961,7 +11970,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lidköping",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -12628,7 +12638,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Svenljunga",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -13417,7 +13428,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Munkedal",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -18497,7 +18509,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tanum",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -21018,7 +21031,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Kungälv",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -21779,7 +21793,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Skara",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -23540,7 +23555,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Karlsborg",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -26162,7 +26178,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Uddevalla",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -27611,7 +27628,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Gullspång",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -27860,7 +27878,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Bollebygd",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -28289,7 +28308,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Alingsås",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -28949,7 +28969,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Töreboda",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -29714,7 +29735,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Hjo",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -30639,7 +30661,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Stenungsund",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -34601,7 +34624,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Strömstad",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -35843,7 +35867,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mellerud",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -36106,7 +36131,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ale",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -36506,7 +36532,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Färgelanda"
+				"Kommunnamn" : "Färgelanda",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -39000,7 +39027,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lysekil",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -39985,7 +40013,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Skövde",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -40810,7 +40839,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Härryda",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -43657,7 +43687,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tjörn",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -43924,7 +43955,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vårgårda",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -44150,7 +44182,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lerum",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -45465,7 +45498,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Öckerö",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -45948,7 +45982,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Grästorp",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -47073,7 +47108,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Götene",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -47411,7 +47447,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Herrljunga",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -47897,7 +47934,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tranemo"
+				"Kommunnamn" : "Tranemo",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -51411,7 +51449,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mariestad",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -52037,7 +52076,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Mark"
+				"Kommunnamn" : "Mark",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -52431,7 +52471,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tibro",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -52603,7 +52644,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mölndal",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -53014,7 +53056,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Essunga",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -56941,7 +56984,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Orust",
-				"Farg" : "Gul"
+				"Farg" : "Gul",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -61101,7 +61145,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Bengtsfors",
-				"Farg" : "Röd"
+				"Farg" : "Röd",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -61539,7 +61584,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tidaholm",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		},
 		{
@@ -62200,7 +62246,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vara",
-				"Farg" : "Grön"
+				"Farg" : "Grön",
+				"Ovantat_dodsfall" : "-"
 			}
 		}
 	]
