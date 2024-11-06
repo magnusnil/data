@@ -1666,9 +1666,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Vänersborg",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Vänersborg"
 			}
 		},
 		{
@@ -1746,8 +1744,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Partille",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test"
 			}
 		},
 		{
@@ -2280,8 +2277,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Trollhättan",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test"
 			}
 		},
 		{
@@ -2683,9 +2679,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Lilla Edet",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Lilla Edet"
 			}
 		},
 		{
@@ -4311,8 +4305,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Åmål",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Vald_overgrepp" : "Test"
 			}
 		},
 		{
@@ -5209,8 +5202,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Dals-Ed",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Vald_overgrepp" : "Test"
 			}
 		},
 		{
@@ -6228,9 +6220,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Falköping",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Falköping"
 			}
 		},
 		{
@@ -8025,8 +8015,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Sotenäs",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -8498,8 +8487,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ulricehamn",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Missbruk" : "Test"
 			}
 		},
 		{
@@ -11969,9 +11957,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Lidköping",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Lidköping"
 			}
 		},
 		{
@@ -12638,8 +12624,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Svenljunga",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Missbruk" : "Test"
 			}
 		},
 		{
@@ -13428,8 +13413,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Munkedal",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Vald_overgrepp" : "Test"
 			}
 		},
 		{
@@ -18509,8 +18493,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tanum",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Vald_overgrepp" : "Test"
 			}
 		},
 		{
@@ -21030,9 +21013,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Kungälv",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Kungälv"
 			}
 		},
 		{
@@ -21792,9 +21773,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Skara",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Skara"
 			}
 		},
 		{
@@ -23554,9 +23533,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Karlsborg",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Karlsborg"
 			}
 		},
 		{
@@ -26178,8 +26155,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Uddevalla",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -27627,9 +27603,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Gullspång",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Gullspång"
 			}
 		},
 		{
@@ -27877,9 +27851,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Bollebygd",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Bollebygd"
 			}
 		},
 		{
@@ -28308,8 +28280,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Alingsås",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test"
 			}
 		},
 		{
@@ -28968,9 +28939,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Töreboda",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Töreboda"
 			}
 		},
 		{
@@ -29735,8 +29704,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Hjo",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -30661,8 +30629,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Stenungsund",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Vald_overgrepp" : "Test"
 			}
 		},
 		{
@@ -34623,9 +34590,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Strömstad",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Strömstad"
 			}
 		},
 		{
@@ -35867,8 +35832,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mellerud",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -36131,8 +36095,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ale",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test"
 			}
 		},
 		{
@@ -36533,7 +36496,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Färgelanda",
-				"Ovantat_dodsfall" : "-"
+				"Missbruk" : "Test"
 			}
 		},
 		{
@@ -39026,9 +38989,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Lysekil",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Lysekil"
 			}
 		},
 		{
@@ -40012,9 +39973,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Skövde",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Skövde"
 			}
 		},
 		{
@@ -40559,7 +40518,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Borås",
-				"Ovantat_dodsfall" : "Svenska kyrkan"
+				"Missbruk" : "Test",
+				"Narstaende_avlider" : "Svenska kyrkan"
 			}
 		},
 		{
@@ -40839,8 +40799,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Härryda",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test"
 			}
 		},
 		{
@@ -43687,8 +43646,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tjörn",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -43955,8 +43913,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vårgårda",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Missbruk" : "Test"
 			}
 		},
 		{
@@ -44182,8 +44139,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lerum",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test"
 			}
 		},
 		{
@@ -45498,8 +45454,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Öckerö",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -45981,9 +45936,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Grästorp",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Grästorp"
 			}
 		},
 		{
@@ -47108,8 +47061,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Götene",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Psykisk_storning_funktionsnedsattning" : "Test"
 			}
 		},
 		{
@@ -47447,8 +47399,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Herrljunga",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Missbruk" : "Test"
 			}
 		},
 		{
@@ -47934,8 +47885,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tranemo",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Tranemo"
 			}
 		},
 		{
@@ -51448,9 +51398,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Mariestad",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Mariestad"
 			}
 		},
 		{
@@ -52077,7 +52025,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mark",
-				"Ovantat_dodsfall" : "-"
+				"Missbruk" : "Test"
 			}
 		},
 		{
@@ -52470,9 +52418,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tibro",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Tibro"
 			}
 		},
 		{
@@ -52644,8 +52590,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mölndal",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Fysisk_sjukdom_skada" : "Test",
+				"Vald_overgrepp" : "Test"
 			}
 		},
 		{
@@ -53055,9 +53001,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Essunga",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Essunga"
 			}
 		},
 		{
@@ -56983,9 +56927,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Orust",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Orust"
 			}
 		},
 		{
@@ -60427,8 +60369,8 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Göteborg",
-				"Farg" : "Gul",
-				"Ovantat_dodsfall" : "Bräcke Diakoni"
+				"Vald_overgrepp" : "Test",
+				"Narstaende_avlider" : "Bräcke Diakoni"
 			}
 		},
 		{
@@ -61144,9 +61086,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Bengtsfors",
-				"Farg" : "Röd",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Bengtsfors"
 			}
 		},
 		{
@@ -61583,9 +61523,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tidaholm",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Tidaholm"
 			}
 		},
 		{
@@ -62245,9 +62183,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Vara",
-				"Farg" : "Grön",
-				"Ovantat_dodsfall" : "-"
+				"Kommunnamn" : "Vara"
 			}
 		}
 	]
