@@ -40519,7 +40519,7 @@
 			"properties" : {
 				"Kommunnamn" : "Borås",
 				"Missbruk" : "Test",
-				"Narstaende_avlider" : "Svenska kyrkan"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras\" target=\"_blank\">Svenska kyrkan</a>"
 			}
 		},
 		{
@@ -60370,7 +60370,7 @@
 			"properties" : {
 				"Kommunnamn" : "Göteborg",
 				"Vald_overgrepp" : "Test",
-				"Narstaende_avlider" : "Bräcke Diakoni"
+				"Narstaende_avlider" : "<a href=\"https://brackediakoni.se/\" target=\"_blank\">Bräcke Diakoni</a>"
 			}
 		},
 		{
