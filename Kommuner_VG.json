@@ -1667,7 +1667,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vänersborg",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -2278,9 +2278,9 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Trollhättan",
-				"Psykisk_storning_funktionsnedsattning" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/musslan\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Musslan</a>",
-				"Missbruk" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/musslan\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Musslan</a>",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Psykisk_storning_funktionsnedsattning" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/musslan\" target=\"_blank\">Svenska kyrkan-Musslan</a>",
+				"Missbruk" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/musslan\" target=\"_blank\">Svenska kyrkan-Musslan</a>",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -4309,7 +4309,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Åmål",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -5206,7 +5206,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Dals-Ed",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -6225,7 +6225,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Falköping",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -8020,7 +8020,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Sotenäs",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -8492,7 +8492,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ulricehamn",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -11963,7 +11963,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lidköping",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -12630,7 +12630,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Svenljunga",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -13419,7 +13419,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Munkedal",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -18499,7 +18499,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tanum",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -21781,7 +21781,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Skara",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -23542,7 +23542,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Karlsborg",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -26164,7 +26164,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Uddevalla",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -27613,7 +27613,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Gullspång",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -27862,7 +27862,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Bollebygd",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -28950,7 +28950,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Töreboda",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -29715,7 +29715,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Hjo",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -34602,7 +34602,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Strömstad",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -35844,7 +35844,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mellerud",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -36508,7 +36508,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Färgelanda",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -39002,7 +39002,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lysekil",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -39987,7 +39987,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Skövde",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -40535,7 +40535,7 @@
 				"Psykisk_storning_funktionsnedsattning" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>",
 				"Fysisk_sjukdom_skada" : "<a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>, <a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>",
 				"Missbruk" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -43929,7 +43929,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vårgårda",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -45953,7 +45953,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Grästorp",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -47078,7 +47078,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Götene",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -47416,7 +47416,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Herrljunga",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -47903,7 +47903,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tranemo",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -51417,7 +51417,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mariestad",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -52044,7 +52044,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mark",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras/sjukhuskyrkan-i-boras\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SÄS</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -52438,7 +52438,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tibro",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -53021,7 +53021,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Essunga",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -56948,7 +56948,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Orust",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -61111,7 +61111,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Bengtsfors",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan NÄL</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/trollhattan/sjukhuskyrkan-pa-nal\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan NÄL</a>"
 			}
 		},
 		{
@@ -61549,7 +61549,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tidaholm",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		},
 		{
@@ -62210,7 +62210,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vara",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\"><a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>-Sjukhuskyrkan SkaS</a>"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/skovde/sjukhuskyrkan-skas\" target=\"_blank\">Svenska kyrkan-Sjukhuskyrkan SkaS</a>"
 			}
 		}
 	]
