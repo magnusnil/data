@@ -1666,7 +1666,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Vänersborg"
+				"Kommunnamn" : "Vänersborg",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -1744,7 +1745,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Partille",
-				"Fysisk_sjukdom_skada" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -2277,7 +2278,9 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Trollhättan",
-				"Fysisk_sjukdom_skada" : "Test"
+				"Psykisk_storning_funktionsnedsattning" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Musslan",
+				"Missbruk" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Musslan",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -2679,7 +2682,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Lilla Edet"
+				"Kommunnamn" : "Lilla Edet",
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -4305,7 +4309,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Åmål",
-				"Vald_overgrepp" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -5202,7 +5206,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Dals-Ed",
-				"Vald_overgrepp" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -6220,7 +6224,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Falköping"
+				"Kommunnamn" : "Falköping",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -8015,7 +8020,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Sotenäs",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -8487,7 +8492,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ulricehamn",
-				"Missbruk" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -11957,7 +11962,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Lidköping"
+				"Kommunnamn" : "Lidköping",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -12624,7 +12630,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Svenljunga",
-				"Missbruk" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -13413,7 +13419,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Munkedal",
-				"Vald_overgrepp" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -18493,7 +18499,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tanum",
-				"Vald_overgrepp" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -21013,7 +21019,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Kungälv"
+				"Kommunnamn" : "Kungälv",
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -21773,7 +21780,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Skara"
+				"Kommunnamn" : "Skara",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -23533,7 +23541,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Karlsborg"
+				"Kommunnamn" : "Karlsborg",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -26155,7 +26164,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Uddevalla",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -27603,7 +27612,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Gullspång"
+				"Kommunnamn" : "Gullspång",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -27851,7 +27861,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Bollebygd"
+				"Kommunnamn" : "Bollebygd",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -28279,8 +28290,7 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Alingsås",
-				"Fysisk_sjukdom_skada" : "Test"
+				"Kommunnamn" : "Alingsås"
 			}
 		},
 		{
@@ -28939,7 +28949,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Töreboda"
+				"Kommunnamn" : "Töreboda",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -29704,7 +29715,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Hjo",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -30629,7 +30640,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Stenungsund",
-				"Vald_overgrepp" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -34590,7 +34601,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Strömstad"
+				"Kommunnamn" : "Strömstad",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -35832,7 +35844,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mellerud",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -36095,7 +36107,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ale",
-				"Fysisk_sjukdom_skada" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -36496,7 +36508,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Färgelanda",
-				"Missbruk" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -38989,7 +39001,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Lysekil"
+				"Kommunnamn" : "Lysekil",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -39973,7 +39986,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Skövde"
+				"Kommunnamn" : "Skövde",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -40518,8 +40532,10 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Borås",
-				"Missbruk" : "Test",
-				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/boras\" target=\"_blank\">Svenska kyrkan</a>"
+				"Psykisk_storning_funktionsnedsattning" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>",
+				"Fysisk_sjukdom_skada" : "<a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>, <a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>",
+				"Missbruk" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -40799,7 +40815,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Härryda",
-				"Fysisk_sjukdom_skada" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -43646,7 +43662,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tjörn",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -43913,7 +43929,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vårgårda",
-				"Missbruk" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -44139,7 +44155,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lerum",
-				"Fysisk_sjukdom_skada" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -45454,7 +45470,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Öckerö",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -45936,7 +45952,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Grästorp"
+				"Kommunnamn" : "Grästorp",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -47061,7 +47078,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Götene",
-				"Psykisk_storning_funktionsnedsattning" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -47399,7 +47416,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Herrljunga",
-				"Missbruk" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -47885,7 +47902,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tranemo"
+				"Kommunnamn" : "Tranemo",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -51398,7 +51416,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Mariestad"
+				"Kommunnamn" : "Mariestad",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -52025,7 +52044,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mark",
-				"Missbruk" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SÄS, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>"
 			}
 		},
 		{
@@ -52418,7 +52437,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tibro"
+				"Kommunnamn" : "Tibro",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -52590,8 +52610,7 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mölndal",
-				"Fysisk_sjukdom_skada" : "Test",
-				"Vald_overgrepp" : "Test"
+				"Narstaende_avlider" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>"
 			}
 		},
 		{
@@ -53001,7 +53020,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Essunga"
+				"Kommunnamn" : "Essunga",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -56927,7 +56947,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Orust"
+				"Kommunnamn" : "Orust",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -60369,8 +60390,11 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Göteborg",
-				"Vald_overgrepp" : "Test",
-				"Narstaende_avlider" : "<a href=\"https://brackediakoni.se/\" target=\"_blank\">Bräcke Diakoni</a>"
+				"Psykisk_storning_funktionsnedsattning" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>, <a href=\"https://www.gyllenkroken.se/om-gyllenkroken/\" target=\"_blank\">Gyllingen</a>, <a href=\"https://www.bris.se/\" target=\"_blank\">Bris</a>, <a href=\"https://maskrosbarn.org/\" target=\"_blank\">Maskrosbarn</a>, <a href=\"https://www.skyddsvarnet.se/\" target=\"_blank\">Skyddsvärnet</a>",
+				"Fysisk_sjukdom_skada" : "<a href=\"https://www.bris.se/\" target=\"_blank\">Bris</a>, <a href=\"https://kraftenshus.se/\" target=\"_blank\">Kraftens hus</a>, <a href=\"https://rme.nu/rme-vast/\" target=\"_blank\">RME Väst</a>, <a href=\"https://www.randigahuset.se/\" target=\"_blank\">Randiga huset</a>",
+				"Missbruk" : "<a href=\"https://www.skyddsvarnet.se/\" target=\"_blank\">Skyddsvärnet</a>, <a href=\"https://www.gyllenkroken.se/om-gyllenkroken/\" target=\"_blank\">Gyllingen</a>, <a href=\"https://www.bonavia.se/\" target=\"_blank\">Bona Via</a>, <a href=\"https://maskrosbarn.org/\" target=\"_blank\">Maskrosbarn</a>, <a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>, <a href=\"https://www.bris.se/\" target=\"_blank\">Bris</a>",
+				"Vald_overgrepp" : "<a href=\"https://www.skyddsvarnet.se/\" target=\"_blank\">Skyddsvärnet</a>, <a href=\"https://www.gyllenkroken.se/om-gyllenkroken/\" target=\"_blank\">Gyllingen</a>, <a href=\"https://maskrosbarn.org/\" target=\"_blank\">Maskrosbarn</a>, <a href=\"https://www.bris.se/\" target=\"_blank\">Bris</a>, <a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>, <a href=\"https://www.bojengoteborg.se/\" target=\"_blank\">Bojen</a>",
+				"Narstaende_avlider" : "<a href=\"https://brackediakoni.se/\" target=\"_blank\">Bräcke Diakoni</a>, <a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/\" target=\"_blank\">SOS Barnbyar</a>, <a href=\"https://www.bris.se/\" target=\"_blank\">Bris</a>, <a href=\"https://www.skyddsvarnet.se/\" target=\"_blank\">Skyddsvärnet</a>"
 			}
 		},
 		{
@@ -61086,7 +61110,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Bengtsfors"
+				"Kommunnamn" : "Bengtsfors",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan NÄL"
 			}
 		},
 		{
@@ -61523,7 +61548,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Tidaholm"
+				"Kommunnamn" : "Tidaholm",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		},
 		{
@@ -62183,7 +62209,8 @@
 				]
 			},
 			"properties" : {
-				"Kommunnamn" : "Vara"
+				"Kommunnamn" : "Vara",
+				"Narstaende_avlider" : "<a href=\"https://www.svenskakyrkan.se/\" target=\"_blank\">Svenska kyrkan</a>/Sjukhuskyrkan SkaS"
 			}
 		}
 	]
