@@ -1,0 +1,1449 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Konst",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.5206956254, 57.9290175525 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Aleksandra Stratimirovic",
+				"Konstverksbenämning" : "Cellula",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.967683941, 57.878070145 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Alexandra Kern",
+				"Konstverksbenämning" : "Estuarium",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1177500918, 57.789821596 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Amalia Årfelt",
+				"Konstverksbenämning" : "Höna",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1177500918, 57.789821596 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Amalia Årfelt",
+				"Konstverksbenämning" : "Kanin",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1177500918, 57.789821596 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Amalia Årfelt",
+				"Konstverksbenämning" : "Katt",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1177500918, 57.789821596 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Amalia Årfelt",
+				"Konstverksbenämning" : "Lamm",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.93135, 57.66731 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Anja Bache",
+				"Konstverksbenämning" : "Herbarium för lægevidenskaben",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8472483695, 58.4273206436 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Anna Berglund",
+				"Konstverksbenämning" : "Flora Opus",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9710126519, 57.7089322731 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Annika Ström",
+				"Konstverksbenämning" : "Alla har tid",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9667922739, 57.7233814672 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Anssi Pulkkinen",
+				"Konstverksbenämning" : "Line (With Meanders)",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.26341, 58.319458 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Anton Alvarez",
+				"Konstverksbenämning" : "302221240",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0504515289, 57.7195060797 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Astrid Krogh",
+				"Konstverksbenämning" : "Äng",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0497999434, 57.7223405103 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Astrid Noack",
+				"Konstverksbenämning" : "Ung mand der planter et trae",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8514056801, 58.4261154744 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Backa Carin Ivarsdotter",
+				"Konstverksbenämning" : "Livets Källa, Hemma och Utan titel",
+				"Konsttyp" : "Blandteknik",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1176159814, 57.7902762342 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Barbara Häggdahl",
+				"Konstverksbenämning" : "Ombligo",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.117149277, 57.7900417674 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Barbara Häggdahl",
+				"Konstverksbenämning" : "Ombligo",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9626452495, 57.6813639841 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Barbro Mentzer",
+				"Konstverksbenämning" : "Stenar i grotta",
+				"Konsttyp" : "Emalj",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0476594518, 57.7965890555 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Beatrice Hansson",
+				"Konstverksbenämning" : "Berget",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9622061994, 57.724751675 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Bianca Maria Barmen",
+				"Konstverksbenämning" : "Groda",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.5549715273, 58.1910577107 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Bianca Maria Barmen",
+				"Konstverksbenämning" : "Hästens källa",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9620962288, 57.7247258942 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Bianca Maria Barmen",
+				"Konstverksbenämning" : "Träd",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9634680837, 57.7252105529 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Birgitta Burling",
+				"Konstverksbenämning" : "Yta - innehåll: helhet, helande",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8519094416, 58.425913903 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Birgitta Samuelsson",
+				"Konstverksbenämning" : "Växande/Growing",
+				"Konsttyp" : "Blandteknik",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1183785042, 57.7903852774 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Brita Wimnell-Macke",
+				"Konstverksbenämning" : "Dansande Dervischer eller balans i världen",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9625774741, 57.682702668 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Britta Nehrman",
+				"Konstverksbenämning" : "Åsa",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9623264857, 57.6827431843 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Carl Milles",
+				"Konstverksbenämning" : "Genius",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0488303452, 57.795848191 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Caroline Bäckman",
+				"Konstverksbenämning" : "Through the dance",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0514723967, 57.7214488854 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Cecilia / Mathilda Aaro Fahlsten",
+				"Konstverksbenämning" : "Korset och Stjärnan",
+				"Konsttyp" : "Blandteknik",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9600918924, 57.6821388877 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Christian Sandell",
+				"Konstverksbenämning" : "Transmission 2.0",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.103, 57.503475 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Daniel EKTA Götesson",
+				"Konstverksbenämning" : "How Are You I",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.102697, 57.503542 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Daniel EKTA Götesson",
+				"Konstverksbenämning" : "How Are you III",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0478780518, 57.7963024556 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "David Svensson",
+				"Konstverksbenämning" : "Ljusdagrar #2",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8519089618, 58.4246355215 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "David Svensson",
+				"Konstverksbenämning" : "Stenens väg",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0522366473, 57.7203563827 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Denice Zetterquist",
+				"Konstverksbenämning" : "Till glädje",
+				"Konsttyp" : "Emalj",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9623724964, 57.7247402168 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Ditte Reijers",
+				"Konstverksbenämning" : "I own my brain",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.5542344266, 58.1888421718 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Edvin Öhrström",
+				"Konstverksbenämning" : "Guldålder",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.561861, 58.398972 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Emma Kronvall",
+				"Konstverksbenämning" : "Två själar samma tanke",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.263991, 58.31913 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Emma Ströde",
+				"Konstverksbenämning" : "Uttis",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9613498263, 57.6829453139 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Ernst Billgren",
+				"Konstverksbenämning" : "Mötesplats",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.92988, 57.66738 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Eva Beierheimer",
+				"Konstverksbenämning" : "Sekvens #1-3",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.647388185, 57.4925542009 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Eva Berggren",
+				"Konstverksbenämning" : "På räck",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1514463155, 58.4971885159 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Eva Ullberg",
+				"Konstverksbenämning" : "Längs vattenbrynet",
+				"Konsttyp" : "Objekt",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1515004465, 58.4971602302 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Eva Ullberg",
+				"Konstverksbenämning" : "Årsringar",
+				"Konsttyp" : "Objekt",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0533730377, 57.7198487775 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Eva/Torbjörn Brodin/Steijner",
+				"Konstverksbenämning" : "Haren och fågeln",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8487435779, 58.4276805256 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Felicia Björklund",
+				"Konstverksbenämning" : "Eclipse",
+				"Konsttyp" : "Övrigt",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.263991, 58.31913 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Fredrik Vestergård",
+				"Konstverksbenämning" : "Ljuspunkter",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.263991, 58.31913 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Fredrik Vestergård",
+				"Konstverksbenämning" : "Ljuspunkter",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.263991, 58.31913 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Fredrik Vestergård",
+				"Konstverksbenämning" : "Ljuspunkter",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6468571347, 57.492562355 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Graham Stacy",
+				"Konstverksbenämning" : "Räv",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0128823934, 57.6616248838 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Gunilla Bergström",
+				"Konstverksbenämning" : "Pinus IV",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1183616354, 57.7894441562 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Gunnvi Bengtsson",
+				"Konstverksbenämning" : "Sitt, titt och tänksten.",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1181685164, 57.7890781502 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Gunnvi Bengtsson",
+				"Konstverksbenämning" : "Sitt, titt och tänksten.",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9276118946, 58.3559138913 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Gunvi Bengtsson",
+				"Konstverksbenämning" : "Uppåt-Framåt",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8527626152, 58.4260459697 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Göran Danielsson",
+				"Konstverksbenämning" : "Solaris",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0125106791, 57.661260697 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Görel Steg",
+				"Konstverksbenämning" : "Pelare",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.3290378563, 58.3768477124 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Hans Hillerström",
+				"Konstverksbenämning" : "Ungen",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9593294378, 57.6821731336 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Håkan Dahlén",
+				"Konstverksbenämning" : "Utan titel",
+				"Konsttyp" : "Objekt",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.5523262596, 58.1877500772 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Ingemar Beiron",
+				"Konstverksbenämning" : "Tre dansande tranor",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0539130782, 57.7189192623 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Irina My Lindqvist",
+				"Konstverksbenämning" : "Livets Rytm",
+				"Konsttyp" : "Blandteknik",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9997634286, 58.5680032542 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Jan Hilmersson",
+				"Konstverksbenämning" : "Änglar och vingar",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.966515987, 57.8781626722 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Jennifer Forsberg",
+				"Konstverksbenämning" : "Terra Nullius",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0518264482, 57.7200107314 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Jesper Nyrén",
+				"Konstverksbenämning" : "Landskap",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.846372687, 58.4269039639 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Jessica och Niklas Fännick",
+				"Konstverksbenämning" : "Fågel, fisk och mittemellan - mjuka världen allt för sällan",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0506482758, 57.7192265075 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Joakim Ojanen",
+				"Konstverksbenämning" : "Symbios - Människan och naturen",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9611172653, 57.7247422978 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "John Hedaeus",
+				"Konstverksbenämning" : "Aesklepius",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9621746894, 57.6811020496 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Jörgen H M Byström",
+				"Konstverksbenämning" : "Gyckelspel",
+				"Konsttyp" : "Emalj",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8457983285, 58.4272164507 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Katarina Löfström",
+				"Konstverksbenämning" : "Liquid Sky",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.5549022296, 58.1911773647 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Kerstin Dahl-Norén",
+				"Konstverksbenämning" : "Källan",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0505222958, 57.7225869382 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Klas Barbrosson",
+				"Konstverksbenämning" : "Pruttkuddeträdet (Arbor velutum flatum)",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.959405122, 57.6827313488 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Lars Englund",
+				"Konstverksbenämning" : "Utan titel",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.5552511078, 58.1909846586 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Lars Hansson",
+				"Konstverksbenämning" : "Sfär och klot",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9661643446, 57.70874916 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Lars-Erik Ström",
+				"Konstverksbenämning" : "I verket",
+				"Konsttyp" : "Emalj",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.2635044404, 58.3184736504 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Lena Lervik",
+				"Konstverksbenämning" : "Skyddsmantelmadonna",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9303877507, 58.356148788 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Leo Pettersson",
+				"Konstverksbenämning" : "Hjärta",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9299398218, 58.3562402551 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Leo Pettersson",
+				"Konstverksbenämning" : "Kil",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9298635028, 58.3563710377 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Leo Pettersson",
+				"Konstverksbenämning" : "Stjärna",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9656074979, 57.6804204751 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Linnea Jörpeland",
+				"Konstverksbenämning" : "På kvällskvisten",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9656250998, 57.6804184216 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Linnea Jörpeland",
+				"Konstverksbenämning" : "Stråk",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9656674335, 57.6804851438 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Linnea Jörpeland",
+				"Konstverksbenämning" : "Vingslag",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8518762005, 58.4281162976 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Magdalena Nilsson",
+				"Konstverksbenämning" : "Sedimentation",
+				"Konsttyp" : "Relief",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9677778461, 57.8718615496 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Magdolna Szabó",
+				"Konstverksbenämning" : "Glimt",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.2833186442, 58.2937106755 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Maria Sjöström",
+				"Konstverksbenämning" : "Prismadonnan",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1168381408, 57.7899159554 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Marie Bondeson",
+				"Konstverksbenämning" : "En sittplats för Zen",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1163446144, 57.7896443142 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Marie Bondeson",
+				"Konstverksbenämning" : "En sittplats för Zen",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.5541273032, 58.1870360184 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Marléne/Anette Kangas/Gustafsson",
+				"Konstverksbenämning" : "Konst under bar himmel",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1186083986, 57.7899817208 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Martin Hansson",
+				"Konstverksbenämning" : "Stormigt hav",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1184581949, 57.789635736 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Martin Hansson",
+				"Konstverksbenämning" : "Treenighet",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9641158373, 57.7264601668 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Mats Olofgörs",
+				"Konstverksbenämning" : "Facettes",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.850667, 58.429083 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Monica Höll",
+				"Konstverksbenämning" : "Krater platå",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9267286578, 58.356887493 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Monica Willner",
+				"Konstverksbenämning" : "Örnmask",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0096388092, 57.6601493939 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Peder Istad",
+				"Konstverksbenämning" : "Clavicula I",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0092767331, 57.6604769109 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Peder Istad",
+				"Konstverksbenämning" : "Clavicula II",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1174335912, 57.7892382783 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Per Agelii",
+				"Konstverksbenämning" : "Snigeln",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.1166772083, 57.7894956255 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Per Agelii",
+				"Konstverksbenämning" : "Svampar",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.6254046806, 58.0147286399 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Peter Hellbom",
+				"Konstverksbenämning" : "Harmoni",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.9613175538, 57.7243533302 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Pontus Kjerrman",
+				"Konstverksbenämning" : "Pappan, barnen och den lilla fågeln",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.0539608765, 57.7216970007 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Rocio Soto",
+				"Konstverksbenämning" : "Flow - Drops",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8475168794, 58.4297862635 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Roland Persson",
+				"Konstverksbenämning" : "Mönster i naturen",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.2665087148, 58.31734562 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Sivert Lindblom",
+				"Konstverksbenämning" : "Amadeus",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9598308835, 57.6829835888 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Staffan Nihlén",
+				"Konstverksbenämning" : "Ömhet",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9603408345, 57.6826464533 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Stig Blomberg",
+				"Konstverksbenämning" : "Apollon och Asklepios",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.2675351714, 58.3187230252 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Thomas Nordström",
+				"Konstverksbenämning" : "I Gläntan",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.963670966, 57.6805594215 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Thomas Nordström",
+				"Konstverksbenämning" : "Spelplats",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.969136, 57.878197 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Thord Tamming",
+				"Konstverksbenämning" : "Kustbygd",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.8515008887, 58.4279276878 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Torbjörn Johansson",
+				"Konstverksbenämning" : "Sten,droppe och himmel av färg",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.999864302, 58.5679361386 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Ulf Johnsson",
+				"Konstverksbenämning" : "Nästan",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.6253678283, 58.0148643086 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Ulf Johnsson",
+				"Konstverksbenämning" : "Stor Knapp",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9499462355, 57.6828335067 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Vera Ohlsson",
+				"Konstverksbenämning" : "Utan titel",
+				"Konsttyp" : "Blandteknik",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9937630114, 57.7090831227 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Åke Nordström",
+				"Konstverksbenämning" : "Utan titel",
+				"Konsttyp" : "Installation",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9611864904, 57.6825068336 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Åsa Herrgård",
+				"Konstverksbenämning" : "Stranden en plats för tankar och meditation",
+				"Konsttyp" : "Blandteknik",
+				"Placering" : "Utomhus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.9612606829, 57.6825496456 ]
+			},
+			"properties" : {
+				"Konstnärsnamn" : "Åsa Herrgård",
+				"Konstverksbenämning" : "Stranden en plats för tankar och meditation",
+				"Konsttyp" : "Skulptur",
+				"Placering" : "Utomhus"
+			}
+		}
+	]
+}
