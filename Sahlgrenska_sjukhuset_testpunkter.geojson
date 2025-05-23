@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Testpunkter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Namn": "A" }, "geometry": { "type": "Point", "coordinates": [ 11.960435322603464, 57.683143960240933 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Namn": "B" }, "geometry": { "type": "Point", "coordinates": [ 11.962354779331251, 57.682557618162299 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Namn": "C" }, "geometry": { "type": "Point", "coordinates": [ 11.958248698751429, 57.682747320926524 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Namn": "D" }, "geometry": { "type": "Point", "coordinates": [ 11.961991836732448, 57.681025923806963 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Namn": "E" }, "geometry": { "type": "Point", "coordinates": [ 11.964881368453675, 57.680923281768656 ] } }
+]
+}
