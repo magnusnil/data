@@ -8,8 +8,7 @@
 		"pm25" : 10.95,
 		"pm10" : 14.4,
 		"laeq" : 50.7,
-		"ndvi" : 0.5872,
-		"bef_tot" : 30314
+		"ndvi" : 0.5872
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -20,8 +19,7 @@
 		"pm25" : 11.17,
 		"pm10" : 15,
 		"laeq" : 53.5,
-		"ndvi" : 0.5185,
-		"bef_tot" : 33115
+		"ndvi" : 0.5185
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -32,8 +30,7 @@
 		"pm25" : 11.51,
 		"pm10" : 14.55,
 		"laeq" : 47.1,
-		"ndvi" : 0.4169,
-		"bef_tot" : 11794
+		"ndvi" : 0.4169
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -44,8 +41,7 @@
 		"pm25" : 10.82,
 		"pm10" : 14.13,
 		"laeq" : 50.6,
-		"ndvi" : 0.5505,
-		"bef_tot" : 20638
+		"ndvi" : 0.5505
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -56,8 +52,7 @@
 		"pm25" : 10.85,
 		"pm10" : 13.77,
 		"laeq" : 45.8,
-		"ndvi" : 0.5469,
-		"bef_tot" : 14681
+		"ndvi" : 0.5469
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -68,8 +63,7 @@
 		"pm25" : 10.56,
 		"pm10" : 13.42,
 		"laeq" : 43,
-		"ndvi" : 0.6223,
-		"bef_tot" : 14876
+		"ndvi" : 0.6223
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -80,8 +74,7 @@
 		"pm25" : 10.92,
 		"pm10" : 14.32,
 		"laeq" : 50.5,
-		"ndvi" : 0.5579,
-		"bef_tot" : 25375
+		"ndvi" : 0.5579
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -92,8 +85,7 @@
 		"pm25" : 10.82,
 		"pm10" : 14.26,
 		"laeq" : 51.8,
-		"ndvi" : 0.5826,
-		"bef_tot" : 35265
+		"ndvi" : 0.5826
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -104,8 +96,7 @@
 		"pm25" : 10.22,
 		"pm10" : 13.43,
 		"laeq" : 45.7,
-		"ndvi" : 0.622,
-		"bef_tot" : 10699
+		"ndvi" : 0.622
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -116,8 +107,7 @@
 		"pm25" : 10.45,
 		"pm10" : 13.64,
 		"laeq" : 45.4,
-		"ndvi" : 0.628,
-		"bef_tot" : 7856
+		"ndvi" : 0.628
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -128,8 +118,7 @@
 		"pm25" : 10.42,
 		"pm10" : 13.36,
 		"laeq" : 45.4,
-		"ndvi" : 0.5987,
-		"bef_tot" : 5731
+		"ndvi" : 0.5987
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -140,8 +129,7 @@
 		"pm25" : 10.26,
 		"pm10" : 13.19,
 		"laeq" : 43.1,
-		"ndvi" : 0.6346,
-		"bef_tot" : 5816
+		"ndvi" : 0.6346
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -152,8 +140,7 @@
 		"pm25" : 10.55,
 		"pm10" : 13.7,
 		"laeq" : 48.8,
-		"ndvi" : 0.6171,
-		"bef_tot" : 12887
+		"ndvi" : 0.6171
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -164,20 +151,7 @@
 		"pm25" : 10.59,
 		"pm10" : 13.86,
 		"laeq" : 46.4,
-		"ndvi" : 0.6367,
-		"bef_tot" : 32944
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2000,
-		"kommunkod" : 1465,
-		"kommunnamn" : "Svenljunga",
-		"nox" : 3.98,
-		"pm25" : 10.18,
-		"pm10" : 13.45,
-		"laeq" : 43.5,
-		"ndvi" : 0.6386,
-		"bef_tot" : 2896
+		"ndvi" : 0.6367
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -188,8 +162,7 @@
 		"pm25" : 10.36,
 		"pm10" : 13.28,
 		"laeq" : 42.8,
-		"ndvi" : 0.5845,
-		"bef_tot" : 5455
+		"ndvi" : 0.5845
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -200,8 +173,7 @@
 		"pm25" : 10.41,
 		"pm10" : 13.51,
 		"laeq" : 45.8,
-		"ndvi" : 0.5517,
-		"bef_tot" : 10606
+		"ndvi" : 0.5517
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -212,8 +184,7 @@
 		"pm25" : 11.87,
 		"pm10" : 16.1,
 		"laeq" : 55.5,
-		"ndvi" : 0.4599,
-		"bef_tot" : 465350
+		"ndvi" : 0.4599
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -224,8 +195,7 @@
 		"pm25" : 11.52,
 		"pm10" : 15.46,
 		"laeq" : 54.6,
-		"ndvi" : 0.5061,
-		"bef_tot" : 55989
+		"ndvi" : 0.5061
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -236,8 +206,7 @@
 		"pm25" : 11.11,
 		"pm10" : 14.51,
 		"laeq" : 50.1,
-		"ndvi" : 0.5813,
-		"bef_tot" : 37124
+		"ndvi" : 0.5813
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -248,8 +217,7 @@
 		"pm25" : 10.81,
 		"pm10" : 13.66,
 		"laeq" : 45.6,
-		"ndvi" : 0.3449,
-		"bef_tot" : 10921
+		"ndvi" : 0.3449
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -260,8 +228,7 @@
 		"pm25" : 10.86,
 		"pm10" : 14.21,
 		"laeq" : 51.3,
-		"ndvi" : 0.5451,
-		"bef_tot" : 45722
+		"ndvi" : 0.5451
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -272,8 +239,7 @@
 		"pm25" : 10.6,
 		"pm10" : 13.87,
 		"laeq" : 49,
-		"ndvi" : 0.497,
-		"bef_tot" : 29061
+		"ndvi" : 0.497
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -284,8 +250,7 @@
 		"pm25" : 10.67,
 		"pm10" : 14.19,
 		"laeq" : 50.6,
-		"ndvi" : 0.4868,
-		"bef_tot" : 52758
+		"ndvi" : 0.4868
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -296,8 +261,7 @@
 		"pm25" : 10.8,
 		"pm10" : 14.21,
 		"laeq" : 50.8,
-		"ndvi" : 0.5549,
-		"bef_tot" : 35102
+		"ndvi" : 0.5549
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -308,20 +272,7 @@
 		"pm25" : 10.56,
 		"pm10" : 14.26,
 		"laeq" : 52.2,
-		"ndvi" : 0.5217,
-		"bef_tot" : 88934
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2000,
-		"kommunkod" : 1494,
-		"kommunnamn" : "Lidköping",
-		"nox" : 4.94,
-		"pm25" : 10.4,
-		"pm10" : 13.22,
-		"laeq" : 45.3,
-		"ndvi" : 0.5769,
-		"bef_tot" : 1243
+		"ndvi" : 0.5217
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -332,8 +283,7 @@
 		"pm25" : 8.78,
 		"pm10" : 13.16,
 		"laeq" : 50.9,
-		"ndvi" : 0.5877,
-		"bef_tot" : 31986
+		"ndvi" : 0.5877
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -344,8 +294,7 @@
 		"pm25" : 9.01,
 		"pm10" : 13.84,
 		"laeq" : 53.6,
-		"ndvi" : 0.5202,
-		"bef_tot" : 33478
+		"ndvi" : 0.5202
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -356,8 +305,7 @@
 		"pm25" : 9.05,
 		"pm10" : 12.96,
 		"laeq" : 47.4,
-		"ndvi" : 0.4172,
-		"bef_tot" : 12198
+		"ndvi" : 0.4172
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -368,8 +316,7 @@
 		"pm25" : 8.58,
 		"pm10" : 12.89,
 		"laeq" : 50.6,
-		"ndvi" : 0.5513,
-		"bef_tot" : 22915
+		"ndvi" : 0.5513
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -380,8 +327,7 @@
 		"pm25" : 8.5,
 		"pm10" : 12.23,
 		"laeq" : 46,
-		"ndvi" : 0.5518,
-		"bef_tot" : 15022
+		"ndvi" : 0.5518
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -392,8 +338,7 @@
 		"pm25" : 8.29,
 		"pm10" : 11.83,
 		"laeq" : 43.1,
-		"ndvi" : 0.6222,
-		"bef_tot" : 15078
+		"ndvi" : 0.6222
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -404,8 +349,7 @@
 		"pm25" : 8.71,
 		"pm10" : 12.92,
 		"laeq" : 50.6,
-		"ndvi" : 0.5647,
-		"bef_tot" : 26439
+		"ndvi" : 0.5647
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -416,8 +360,7 @@
 		"pm25" : 8.67,
 		"pm10" : 12.86,
 		"laeq" : 52,
-		"ndvi" : 0.5856,
-		"bef_tot" : 36487
+		"ndvi" : 0.5856
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -428,8 +371,7 @@
 		"pm25" : 8.12,
 		"pm10" : 11.7,
 		"laeq" : 46.1,
-		"ndvi" : 0.617,
-		"bef_tot" : 10669
+		"ndvi" : 0.617
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -440,8 +382,7 @@
 		"pm25" : 8.33,
 		"pm10" : 12.17,
 		"laeq" : 46.6,
-		"ndvi" : 0.6264,
-		"bef_tot" : 8087
+		"ndvi" : 0.6264
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -452,8 +393,7 @@
 		"pm25" : 8.16,
 		"pm10" : 11.45,
 		"laeq" : 45.8,
-		"ndvi" : 0.5994,
-		"bef_tot" : 5576
+		"ndvi" : 0.5994
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -464,8 +404,7 @@
 		"pm25" : 8.1,
 		"pm10" : 11.4,
 		"laeq" : 43.5,
-		"ndvi" : 0.6349,
-		"bef_tot" : 5733
+		"ndvi" : 0.6349
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -476,8 +415,7 @@
 		"pm25" : 8.33,
 		"pm10" : 12.01,
 		"laeq" : 49,
-		"ndvi" : 0.6164,
-		"bef_tot" : 12872
+		"ndvi" : 0.6164
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -488,20 +426,7 @@
 		"pm25" : 8.52,
 		"pm10" : 12.35,
 		"laeq" : 46.8,
-		"ndvi" : 0.636,
-		"bef_tot" : 33351
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2005,
-		"kommunkod" : 1465,
-		"kommunnamn" : "Svenljunga",
-		"nox" : 3.87,
-		"pm25" : 8.29,
-		"pm10" : 11.9,
-		"laeq" : 43.7,
-		"ndvi" : 0.6397,
-		"bef_tot" : 2885
+		"ndvi" : 0.636
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -512,8 +437,7 @@
 		"pm25" : 8.24,
 		"pm10" : 11.46,
 		"laeq" : 43.2,
-		"ndvi" : 0.5778,
-		"bef_tot" : 5362
+		"ndvi" : 0.5778
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -524,8 +448,7 @@
 		"pm25" : 8.23,
 		"pm10" : 11.68,
 		"laeq" : 46,
-		"ndvi" : 0.5461,
-		"bef_tot" : 10566
+		"ndvi" : 0.5461
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -536,8 +459,7 @@
 		"pm25" : 9.58,
 		"pm10" : 15.12,
 		"laeq" : 55.7,
-		"ndvi" : 0.4614,
-		"bef_tot" : 483444
+		"ndvi" : 0.4614
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -548,8 +470,7 @@
 		"pm25" : 9.26,
 		"pm10" : 14.57,
 		"laeq" : 54.6,
-		"ndvi" : 0.5061,
-		"bef_tot" : 58026
+		"ndvi" : 0.5061
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -560,8 +481,7 @@
 		"pm25" : 8.78,
 		"pm10" : 13.32,
 		"laeq" : 50.1,
-		"ndvi" : 0.585,
-		"bef_tot" : 38695
+		"ndvi" : 0.585
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -572,8 +492,7 @@
 		"pm25" : 8.56,
 		"pm10" : 12.04,
 		"laeq" : 45.9,
-		"ndvi" : 0.3445,
-		"bef_tot" : 10802
+		"ndvi" : 0.3445
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -584,8 +503,7 @@
 		"pm25" : 8.59,
 		"pm10" : 12.64,
 		"laeq" : 51.5,
-		"ndvi" : 0.5457,
-		"bef_tot" : 47159
+		"ndvi" : 0.5457
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -596,8 +514,7 @@
 		"pm25" : 8.39,
 		"pm10" : 12.14,
 		"laeq" : 49.2,
-		"ndvi" : 0.4947,
-		"bef_tot" : 29453
+		"ndvi" : 0.4947
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -608,8 +525,7 @@
 		"pm25" : 8.51,
 		"pm10" : 12.57,
 		"laeq" : 50.7,
-		"ndvi" : 0.4873,
-		"bef_tot" : 53271
+		"ndvi" : 0.4873
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -620,8 +536,7 @@
 		"pm25" : 8.61,
 		"pm10" : 12.56,
 		"laeq" : 51.1,
-		"ndvi" : 0.5548,
-		"bef_tot" : 35944
+		"ndvi" : 0.5548
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -632,20 +547,7 @@
 		"pm25" : 8.52,
 		"pm10" : 12.59,
 		"laeq" : 52.5,
-		"ndvi" : 0.52,
-		"bef_tot" : 91453
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2005,
-		"kommunkod" : 1494,
-		"kommunnamn" : "Lidköping",
-		"nox" : 4.4,
-		"pm25" : 8.14,
-		"pm10" : 11.26,
-		"laeq" : 45.9,
-		"ndvi" : 0.5727,
-		"bef_tot" : 1207
+		"ndvi" : 0.52
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -656,8 +558,7 @@
 		"pm25" : 6.16,
 		"pm10" : 11.53,
 		"laeq" : 50.9,
-		"ndvi" : 0.586,
-		"bef_tot" : 34349
+		"ndvi" : 0.586
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -668,8 +569,7 @@
 		"pm25" : 6.37,
 		"pm10" : 12.29,
 		"laeq" : 54.1,
-		"ndvi" : 0.5202,
-		"bef_tot" : 35010
+		"ndvi" : 0.5202
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -680,8 +580,7 @@
 		"pm25" : 6.18,
 		"pm10" : 10.54,
 		"laeq" : 47.7,
-		"ndvi" : 0.4178,
-		"bef_tot" : 12391
+		"ndvi" : 0.4178
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -692,8 +591,7 @@
 		"pm25" : 5.88,
 		"pm10" : 10.98,
 		"laeq" : 50.8,
-		"ndvi" : 0.5544,
-		"bef_tot" : 24353
+		"ndvi" : 0.5544
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -704,8 +602,7 @@
 		"pm25" : 5.69,
 		"pm10" : 9.82,
 		"laeq" : 46.2,
-		"ndvi" : 0.554,
-		"bef_tot" : 14928
+		"ndvi" : 0.554
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -716,8 +613,7 @@
 		"pm25" : 5.46,
 		"pm10" : 9.32,
 		"laeq" : 43.2,
-		"ndvi" : 0.6227,
-		"bef_tot" : 15158
+		"ndvi" : 0.6227
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -728,8 +624,7 @@
 		"pm25" : 6.03,
 		"pm10" : 11.01,
 		"laeq" : 50.6,
-		"ndvi" : 0.5648,
-		"bef_tot" : 27377
+		"ndvi" : 0.5648
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -740,8 +635,7 @@
 		"pm25" : 6.07,
 		"pm10" : 11.21,
 		"laeq" : 52,
-		"ndvi" : 0.5872,
-		"bef_tot" : 38466
+		"ndvi" : 0.5872
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -752,8 +646,7 @@
 		"pm25" : 5.58,
 		"pm10" : 10.02,
 		"laeq" : 46.2,
-		"ndvi" : 0.6201,
-		"bef_tot" : 10990
+		"ndvi" : 0.6201
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -764,8 +657,7 @@
 		"pm25" : 5.79,
 		"pm10" : 10.63,
 		"laeq" : 46.6,
-		"ndvi" : 0.6246,
-		"bef_tot" : 8374
+		"ndvi" : 0.6246
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -776,8 +668,7 @@
 		"pm25" : 5.61,
 		"pm10" : 9.6,
 		"laeq" : 46.1,
-		"ndvi" : 0.5972,
-		"bef_tot" : 5630
+		"ndvi" : 0.5972
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -788,8 +679,7 @@
 		"pm25" : 5.56,
 		"pm10" : 9.64,
 		"laeq" : 43.9,
-		"ndvi" : 0.6326,
-		"bef_tot" : 5525
+		"ndvi" : 0.6326
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -800,8 +690,7 @@
 		"pm25" : 5.65,
 		"pm10" : 9.82,
 		"laeq" : 49.1,
-		"ndvi" : 0.6157,
-		"bef_tot" : 12535
+		"ndvi" : 0.6157
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -812,20 +701,7 @@
 		"pm25" : 5.94,
 		"pm10" : 10.84,
 		"laeq" : 47.1,
-		"ndvi" : 0.6347,
-		"bef_tot" : 33802
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2010,
-		"kommunkod" : 1465,
-		"kommunnamn" : "Svenljunga",
-		"nox" : 3.61,
-		"pm25" : 5.78,
-		"pm10" : 10.65,
-		"laeq" : 43.8,
-		"ndvi" : 0.6383,
-		"bef_tot" : 2748
+		"ndvi" : 0.6347
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -836,8 +712,7 @@
 		"pm25" : 5.74,
 		"pm10" : 9.87,
 		"laeq" : 43.5,
-		"ndvi" : 0.5753,
-		"bef_tot" : 5412
+		"ndvi" : 0.5753
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -848,8 +723,7 @@
 		"pm25" : 5.72,
 		"pm10" : 10.08,
 		"laeq" : 46.4,
-		"ndvi" : 0.5382,
-		"bef_tot" : 10416
+		"ndvi" : 0.5382
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -860,8 +734,7 @@
 		"pm25" : 6.87,
 		"pm10" : 13.58,
 		"laeq" : 55.9,
-		"ndvi" : 0.4596,
-		"bef_tot" : 512549
+		"ndvi" : 0.4596
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -872,8 +745,7 @@
 		"pm25" : 6.57,
 		"pm10" : 13.19,
 		"laeq" : 54.9,
-		"ndvi" : 0.507,
-		"bef_tot" : 60811
+		"ndvi" : 0.507
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -884,8 +756,7 @@
 		"pm25" : 6.05,
 		"pm10" : 11.55,
 		"laeq" : 50.5,
-		"ndvi" : 0.5866,
-		"bef_tot" : 41134
+		"ndvi" : 0.5866
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -896,8 +767,7 @@
 		"pm25" : 5.68,
 		"pm10" : 9.34,
 		"laeq" : 46.4,
-		"ndvi" : 0.3449,
-		"bef_tot" : 10697
+		"ndvi" : 0.3449
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -908,8 +778,7 @@
 		"pm25" : 5.77,
 		"pm10" : 10.34,
 		"laeq" : 51.7,
-		"ndvi" : 0.5458,
-		"bef_tot" : 48771
+		"ndvi" : 0.5458
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -920,8 +789,7 @@
 		"pm25" : 5.79,
 		"pm10" : 10.18,
 		"laeq" : 49.4,
-		"ndvi" : 0.4925,
-		"bef_tot" : 29548
+		"ndvi" : 0.4925
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -932,8 +800,7 @@
 		"pm25" : 5.93,
 		"pm10" : 10.65,
 		"laeq" : 51.2,
-		"ndvi" : 0.4853,
-		"bef_tot" : 55281
+		"ndvi" : 0.4853
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -944,8 +811,7 @@
 		"pm25" : 6.01,
 		"pm10" : 10.79,
 		"laeq" : 51.2,
-		"ndvi" : 0.5544,
-		"bef_tot" : 37677
+		"ndvi" : 0.5544
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -956,20 +822,7 @@
 		"pm25" : 6.05,
 		"pm10" : 11.3,
 		"laeq" : 52.6,
-		"ndvi" : 0.5195,
-		"bef_tot" : 95371
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2010,
-		"kommunkod" : 1494,
-		"kommunnamn" : "Lidköping",
-		"nox" : 4.49,
-		"pm25" : 5.58,
-		"pm10" : 9.52,
-		"laeq" : 46.1,
-		"ndvi" : 0.5715,
-		"bef_tot" : 1191
+		"ndvi" : 0.5195
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -980,8 +833,7 @@
 		"pm25" : 4.92,
 		"pm10" : 13.71,
 		"laeq" : 51.2,
-		"ndvi" : 0.5815,
-		"bef_tot" : 36608
+		"ndvi" : 0.5815
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -992,8 +844,7 @@
 		"pm25" : 5.08,
 		"pm10" : 14.33,
 		"laeq" : 54.4,
-		"ndvi" : 0.51965,
-		"bef_tot" : 36892
+		"ndvi" : 0.51965
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1004,8 +855,7 @@
 		"pm25" : 4.85,
 		"pm10" : 12.69,
 		"laeq" : 48,
-		"ndvi" : 0.4184,
-		"bef_tot" : 12662
+		"ndvi" : 0.4184
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1016,8 +866,7 @@
 		"pm25" : 4.56,
 		"pm10" : 12.62,
 		"laeq" : 51,
-		"ndvi" : 0.5528,
-		"bef_tot" : 25492
+		"ndvi" : 0.5528
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1028,8 +877,7 @@
 		"pm25" : 4.4,
 		"pm10" : 11.69,
 		"laeq" : 46.5,
-		"ndvi" : 0.5533,
-		"bef_tot" : 15298
+		"ndvi" : 0.5533
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1040,8 +888,7 @@
 		"pm25" : 4.15,
 		"pm10" : 10.94,
 		"laeq" : 43.6,
-		"ndvi" : 0.6232,
-		"bef_tot" : 14829
+		"ndvi" : 0.6232
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1052,8 +899,7 @@
 		"pm25" : 4.77,
 		"pm10" : 12.94,
 		"laeq" : 50.6,
-		"ndvi" : 0.5647,
-		"bef_tot" : 28826
+		"ndvi" : 0.5647
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1064,8 +910,7 @@
 		"pm25" : 4.81,
 		"pm10" : 13.09,
 		"laeq" : 52.2,
-		"ndvi" : 0.5884,
-		"bef_tot" : 40134
+		"ndvi" : 0.5884
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1076,8 +921,7 @@
 		"pm25" : 4.36,
 		"pm10" : 11.31,
 		"laeq" : 46.4,
-		"ndvi" : 0.6161,
-		"bef_tot" : 11126
+		"ndvi" : 0.6161
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1088,8 +932,7 @@
 		"pm25" : 4.65,
 		"pm10" : 12.41,
 		"laeq" : 46.8,
-		"ndvi" : 0.6266,
-		"bef_tot" : 8814
+		"ndvi" : 0.6266
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1100,8 +943,7 @@
 		"pm25" : 4.24,
 		"pm10" : 10.56,
 		"laeq" : 46.2,
-		"ndvi" : 0.591,
-		"bef_tot" : 5524
+		"ndvi" : 0.591
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1112,8 +954,7 @@
 		"pm25" : 4.28,
 		"pm10" : 10.77,
 		"laeq" : 44.1,
-		"ndvi" : 0.6318,
-		"bef_tot" : 5602
+		"ndvi" : 0.6318
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1124,8 +965,7 @@
 		"pm25" : 4.38,
 		"pm10" : 11.48,
 		"laeq" : 49.4,
-		"ndvi" : 0.6129,
-		"bef_tot" : 13204
+		"ndvi" : 0.6129
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1136,20 +976,7 @@
 		"pm25" : 4.88,
 		"pm10" : 12.52,
 		"laeq" : 47.5,
-		"ndvi" : 0.6334,
-		"bef_tot" : 33935
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2015,
-		"kommunkod" : 1465,
-		"kommunnamn" : "Svenljunga",
-		"nox" : 2.37,
-		"pm25" : 4.81,
-		"pm10" : 11.67,
-		"laeq" : 44.1,
-		"ndvi" : 0.6381,
-		"bef_tot" : 2815
+		"ndvi" : 0.6334
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1160,8 +987,7 @@
 		"pm25" : 4.48,
 		"pm10" : 10.91,
 		"laeq" : 43.7,
-		"ndvi" : 0.5656,
-		"bef_tot" : 5482
+		"ndvi" : 0.5656
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1172,8 +998,7 @@
 		"pm25" : 4.4,
 		"pm10" : 10.9,
 		"laeq" : 46.8,
-		"ndvi" : 0.53,
-		"bef_tot" : 10431
+		"ndvi" : 0.53
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1184,8 +1009,7 @@
 		"pm25" : 5.5,
 		"pm10" : 15.6,
 		"laeq" : 56.1,
-		"ndvi" : 0.4575,
-		"bef_tot" : 546678
+		"ndvi" : 0.4575
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1196,8 +1020,7 @@
 		"pm25" : 5.25,
 		"pm10" : 15.33,
 		"laeq" : 55.3,
-		"ndvi" : 0.5044,
-		"bef_tot" : 63192
+		"ndvi" : 0.5044
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1208,8 +1031,7 @@
 		"pm25" : 4.79,
 		"pm10" : 13.47,
 		"laeq" : 50.8,
-		"ndvi" : 0.5862,
-		"bef_tot" : 42624
+		"ndvi" : 0.5862
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1220,8 +1042,7 @@
 		"pm25" : 4.29,
 		"pm10" : 10.78,
 		"laeq" : 46.6,
-		"ndvi" : 0.3433,
-		"bef_tot" : 10705
+		"ndvi" : 0.3433
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1232,8 +1053,7 @@
 		"pm25" : 4.32,
 		"pm10" : 11.42,
 		"laeq" : 51.9,
-		"ndvi" : 0.5448,
-		"bef_tot" : 51076
+		"ndvi" : 0.5448
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1244,8 +1064,7 @@
 		"pm25" : 4.38,
 		"pm10" : 11.22,
 		"laeq" : 49.7,
-		"ndvi" : 0.4871,
-		"bef_tot" : 31056
+		"ndvi" : 0.4871
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1256,8 +1075,7 @@
 		"pm25" : 4.52,
 		"pm10" : 11.79,
 		"laeq" : 51.6,
-		"ndvi" : 0.4802,
-		"bef_tot" : 57027
+		"ndvi" : 0.4802
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1268,8 +1086,7 @@
 		"pm25" : 4.73,
 		"pm10" : 12.4,
 		"laeq" : 51.6,
-		"ndvi" : 0.5551,
-		"bef_tot" : 39632
+		"ndvi" : 0.5551
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1280,20 +1097,7 @@
 		"pm25" : 4.88,
 		"pm10" : 12.46,
 		"laeq" : 53.1,
-		"ndvi" : 0.5162,
-		"bef_tot" : 100554
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2015,
-		"kommunkod" : 1494,
-		"kommunnamn" : "Lidköping",
-		"nox" : 2.87,
-		"pm25" : 4.28,
-		"pm10" : 10.31,
-		"laeq" : 46.5,
-		"ndvi" : 0.5715,
-		"bef_tot" : 1127
+		"ndvi" : 0.5162
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1304,8 +1108,7 @@
 		"pm25" : 3.74,
 		"pm10" : 12.54,
 		"laeq" : 51.3,
-		"ndvi" : 0.5838,
-		"bef_tot" : 38192
+		"ndvi" : 0.5838
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1316,8 +1119,7 @@
 		"pm25" : 3.91,
 		"pm10" : 13.15,
 		"laeq" : 54.7,
-		"ndvi" : 0.5175,
-		"bef_tot" : 39349
+		"ndvi" : 0.5175
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1328,8 +1130,7 @@
 		"pm25" : 3.77,
 		"pm10" : 11.63,
 		"laeq" : 48.1,
-		"ndvi" : 0.418,
-		"bef_tot" : 12917
+		"ndvi" : 0.418
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1340,8 +1141,7 @@
 		"pm25" : 3.5,
 		"pm10" : 11.54,
 		"laeq" : 51,
-		"ndvi" : 0.5531,
-		"bef_tot" : 27063
+		"ndvi" : 0.5531
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1352,8 +1152,7 @@
 		"pm25" : 3.4,
 		"pm10" : 10.68,
 		"laeq" : 46.7,
-		"ndvi" : 0.5518,
-		"bef_tot" : 16112
+		"ndvi" : 0.5518
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1364,8 +1163,7 @@
 		"pm25" : 3.25,
 		"pm10" : 10.07,
 		"laeq" : 43.6,
-		"ndvi" : 0.6226,
-		"bef_tot" : 15115
+		"ndvi" : 0.6226
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1376,8 +1174,7 @@
 		"pm25" : 3.64,
 		"pm10" : 11.74,
 		"laeq" : 50.5,
-		"ndvi" : 0.5627,
-		"bef_tot" : 31942
+		"ndvi" : 0.5627
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1388,8 +1185,7 @@
 		"pm25" : 3.67,
 		"pm10" : 11.97,
 		"laeq" : 52.2,
-		"ndvi" : 0.5882,
-		"bef_tot" : 42931
+		"ndvi" : 0.5882
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1400,8 +1196,7 @@
 		"pm25" : 3.5,
 		"pm10" : 10.77,
 		"laeq" : 46.5,
-		"ndvi" : 0.61485,
-		"bef_tot" : 11954
+		"ndvi" : 0.61485
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1412,8 +1207,7 @@
 		"pm25" : 3.6,
 		"pm10" : 11.47,
 		"laeq" : 47.4,
-		"ndvi" : 0.6175,
-		"bef_tot" : 9570
+		"ndvi" : 0.6175
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1424,8 +1218,7 @@
 		"pm25" : 3.49,
 		"pm10" : 10.14,
 		"laeq" : 46.4,
-		"ndvi" : 0.5912,
-		"bef_tot" : 5566
+		"ndvi" : 0.5912
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1436,8 +1229,7 @@
 		"pm25" : 3.47,
 		"pm10" : 10.25,
 		"laeq" : 43.9,
-		"ndvi" : 0.6316,
-		"bef_tot" : 5661
+		"ndvi" : 0.6316
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1448,8 +1240,7 @@
 		"pm25" : 3.37,
 		"pm10" : 10.53,
 		"laeq" : 49.4,
-		"ndvi" : 0.6149,
-		"bef_tot" : 14254
+		"ndvi" : 0.6149
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1460,20 +1251,7 @@
 		"pm25" : 3.81,
 		"pm10" : 11.59,
 		"laeq" : 47.6,
-		"ndvi" : 0.6321,
-		"bef_tot" : 34789
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2020,
-		"kommunkod" : 1465,
-		"kommunnamn" : "Svenljunga",
-		"nox" : 2.49,
-		"pm25" : 3.85,
-		"pm10" : 11.16,
-		"laeq" : 44.1,
-		"ndvi" : 0.6406,
-		"bef_tot" : 2784
+		"ndvi" : 0.6321
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1484,8 +1262,7 @@
 		"pm25" : 3.71,
 		"pm10" : 10.54,
 		"laeq" : 43.8,
-		"ndvi" : 0.5652,
-		"bef_tot" : 5624
+		"ndvi" : 0.5652
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1496,8 +1273,7 @@
 		"pm25" : 3.66,
 		"pm10" : 10.59,
 		"laeq" : 47,
-		"ndvi" : 0.521,
-		"bef_tot" : 10758
+		"ndvi" : 0.521
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1508,8 +1284,7 @@
 		"pm25" : 4.33,
 		"pm10" : 14.46,
 		"laeq" : 56.4,
-		"ndvi" : 0.4561,
-		"bef_tot" : 581707
+		"ndvi" : 0.4561
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1520,8 +1295,7 @@
 		"pm25" : 4.08,
 		"pm10" : 14.21,
 		"laeq" : 55.8,
-		"ndvi" : 0.4956,
-		"bef_tot" : 69810
+		"ndvi" : 0.4956
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1532,8 +1306,7 @@
 		"pm25" : 3.68,
 		"pm10" : 12.3,
 		"laeq" : 51.3,
-		"ndvi" : 0.5832,
-		"bef_tot" : 46997
+		"ndvi" : 0.5832
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1544,8 +1317,7 @@
 		"pm25" : 3.44,
 		"pm10" : 10,
 		"laeq" : 46.7,
-		"ndvi" : 0.3446,
-		"bef_tot" : 10658
+		"ndvi" : 0.3446
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1556,8 +1328,7 @@
 		"pm25" : 3.44,
 		"pm10" : 10.56,
 		"laeq" : 52,
-		"ndvi" : 0.5406,
-		"bef_tot" : 53599
+		"ndvi" : 0.5406
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1568,8 +1339,7 @@
 		"pm25" : 3.59,
 		"pm10" : 10.65,
 		"laeq" : 50.3,
-		"ndvi" : 0.4846,
-		"bef_tot" : 32080
+		"ndvi" : 0.4846
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1580,8 +1350,7 @@
 		"pm25" : 3.64,
 		"pm10" : 11.11,
 		"laeq" : 51.8,
-		"ndvi" : 0.4851,
-		"bef_tot" : 59165
+		"ndvi" : 0.4851
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1592,8 +1361,7 @@
 		"pm25" : 3.71,
 		"pm10" : 11.54,
 		"laeq" : 51.7,
-		"ndvi" : 0.5573,
-		"bef_tot" : 41523
+		"ndvi" : 0.5573
 	},
 	{
 		"json_featuretype" : "blad1",
@@ -1604,19 +1372,6 @@
 		"pm25" : 3.94,
 		"pm10" : 11.83,
 		"laeq" : 53.5,
-		"ndvi" : 0.5174,
-		"bef_tot" : 105275
-	},
-	{
-		"json_featuretype" : "blad1",
-		"ar" : 2020,
-		"kommunkod" : 1494,
-		"kommunnamn" : "Lidköping",
-		"nox" : 3.24,
-		"pm25" : 3.6,
-		"pm10" : 10.1,
-		"laeq" : 46.6,
-		"ndvi" : 0.5725,
-		"bef_tot" : 1095
+		"ndvi" : 0.5174
 	}
 ]
