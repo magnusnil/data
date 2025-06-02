@@ -9,11 +9,11 @@
 				"coordinates" : [ 12.5206956254, 57.9290175525 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Aleksandra Stratimirovic",
-				"Konstverksbenämning" : "Cellula",
+				"Konstnär" : "Aleksandra Stratimirovic",
+				"Titel" : "Cellula",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2019",
-				"Förvaltningsobjektsbenämning" : "Alingsås lasarett"
+				"Framställningsår" : 2019,
+				"Plats" : "Alingsås lasarett"
 			}
 		},
 		{
@@ -23,11 +23,11 @@
 				"coordinates" : [ 11.967683941, 57.878070145 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Alexandra Kern",
-				"Konstverksbenämning" : "Estuarium",
+				"Konstnär" : "Alexandra Kern",
+				"Titel" : "Estuarium",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2019",
-				"Förvaltningsobjektsbenämning" : "Kungälvs sjukhus"
+				"Framställningsår" : 2019,
+				"Plats" : "Kungälvs sjukhus"
 			}
 		},
 		{
@@ -37,11 +37,11 @@
 				"coordinates" : [ 12.1177500918, 57.789821596 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Amalia Årfelt",
-				"Konstverksbenämning" : "Höna",
+				"Konstnär" : "Amalia Årfelt",
+				"Titel" : "Höna",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -51,11 +51,11 @@
 				"coordinates" : [ 12.1177500918, 57.789821596 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Amalia Årfelt",
-				"Konstverksbenämning" : "Kanin",
+				"Konstnär" : "Amalia Årfelt",
+				"Titel" : "Kanin",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -65,11 +65,11 @@
 				"coordinates" : [ 12.1177500918, 57.789821596 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Amalia Årfelt",
-				"Konstverksbenämning" : "Katt",
+				"Konstnär" : "Amalia Årfelt",
+				"Titel" : "Katt",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -79,11 +79,11 @@
 				"coordinates" : [ 12.1177500918, 57.789821596 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Amalia Årfelt",
-				"Konstverksbenämning" : "Lamm",
+				"Konstnär" : "Amalia Årfelt",
+				"Titel" : "Lamm",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -93,11 +93,11 @@
 				"coordinates" : [ 11.93135, 57.66731 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Anja Bache",
-				"Konstverksbenämning" : "Herbarium för lægevidenskaben",
+				"Konstnär" : "Anja Bache",
+				"Titel" : "Herbarium för lægevidenskaben",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Högsbo närsjukhus"
+				"Framställningsår" : 2023,
+				"Plats" : "Högsbo närsjukhus"
 			}
 		},
 		{
@@ -107,11 +107,11 @@
 				"coordinates" : [ 13.8472483695, 58.4273206436 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Anna Berglund",
-				"Konstverksbenämning" : "Flora Opus",
+				"Konstnär" : "Anna Berglund",
+				"Titel" : "Flora Opus",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2022",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2022,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -121,11 +121,11 @@
 				"coordinates" : [ 11.9710126519, 57.7089322731 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Annika Ström",
-				"Konstverksbenämning" : "Alla har tid",
+				"Konstnär" : "Annika Ström",
+				"Titel" : "Alla har tid",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Hållplatstak Nordstan"
+				"Framställningsår" : 2021,
+				"Plats" : "Hållplatstak Nordstan"
 			}
 		},
 		{
@@ -135,11 +135,11 @@
 				"coordinates" : [ 11.9667922739, 57.7233814672 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Anssi Pulkkinen",
-				"Konstverksbenämning" : "Line (With Meanders)",
+				"Konstnär" : "Anssi Pulkkinen",
+				"Titel" : "Line (With Meanders)",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2024",
-				"Förvaltningsobjektsbenämning" : "Spårvagnsdepå Ringön"
+				"Framställningsår" : 2024,
+				"Plats" : "Spårvagnsdepå Ringön"
 			}
 		},
 		{
@@ -149,11 +149,11 @@
 				"coordinates" : [ 12.26341, 58.319458 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Anton Alvarez",
-				"Konstverksbenämning" : "302221240",
+				"Konstnär" : "Anton Alvarez",
+				"Titel" : "302221240",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2024",
-				"Förvaltningsobjektsbenämning" : "NÄL"
+				"Framställningsår" : 2024,
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -163,11 +163,11 @@
 				"coordinates" : [ 12.0504515289, 57.7195060797 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Astrid Krogh",
-				"Konstverksbenämning" : "Äng",
+				"Konstnär" : "Astrid Krogh",
+				"Titel" : "Äng",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2020",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2020,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -177,11 +177,11 @@
 				"coordinates" : [ 12.0497999434, 57.7223405103 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Astrid Noack",
-				"Konstverksbenämning" : "Ung mand der planter et trae",
+				"Konstnär" : "Astrid Noack",
+				"Titel" : "Ung mand der planter et trae",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -191,11 +191,11 @@
 				"coordinates" : [ 13.8514056801, 58.4261154744 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Backa Carin Ivarsdotter",
-				"Konstverksbenämning" : "Livets Källa, Hemma och Utan titel",
+				"Konstnär" : "Backa Carin Ivarsdotter",
+				"Titel" : "Livets Källa, Hemma och Utan titel",
 				"Konsttyp" : "Blandteknik",
-				"Framställningsår" : "2016",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2016,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -205,11 +205,11 @@
 				"coordinates" : [ 12.1176159814, 57.7902762342 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Barbara Häggdahl",
-				"Konstverksbenämning" : "Ombligo",
+				"Konstnär" : "Barbara Häggdahl",
+				"Titel" : "Ombligo",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -219,11 +219,11 @@
 				"coordinates" : [ 12.117149277, 57.7900417674 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Barbara Häggdahl",
-				"Konstverksbenämning" : "Ombligo",
+				"Konstnär" : "Barbara Häggdahl",
+				"Titel" : "Ombligo",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -233,11 +233,11 @@
 				"coordinates" : [ 11.9626452495, 57.6813639841 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Barbro Mentzer",
-				"Konstverksbenämning" : "Stenar i grotta",
+				"Konstnär" : "Barbro Mentzer",
+				"Titel" : "Stenar i grotta",
 				"Konsttyp" : "Emalj",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -247,11 +247,11 @@
 				"coordinates" : [ 12.0476594518, 57.7965890555 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Beatrice Hansson",
-				"Konstverksbenämning" : "Berget",
+				"Konstnär" : "Beatrice Hansson",
+				"Titel" : "Berget",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2015",
-				"Förvaltningsobjektsbenämning" : "Angereds Närsjukhus"
+				"Framställningsår" : 2015,
+				"Plats" : "Angereds Närsjukhus"
 			}
 		},
 		{
@@ -261,11 +261,11 @@
 				"coordinates" : [ 12.9622061994, 57.724751675 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Bianca Maria Barmen",
-				"Konstverksbenämning" : "Groda",
+				"Konstnär" : "Bianca Maria Barmen",
+				"Titel" : "Groda",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2014",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Framställningsår" : 2014,
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -275,11 +275,11 @@
 				"coordinates" : [ 13.5549715273, 58.1910577107 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Bianca Maria Barmen",
-				"Konstverksbenämning" : "Hästens källa",
+				"Konstnär" : "Bianca Maria Barmen",
+				"Titel" : "Hästens källa",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2011",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Falköping"
+				"Framställningsår" : 2011,
+				"Plats" : "Skaraborgs sjukhus Falköping"
 			}
 		},
 		{
@@ -289,11 +289,11 @@
 				"coordinates" : [ 12.9620962288, 57.7247258942 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Bianca Maria Barmen",
-				"Konstverksbenämning" : "Träd",
+				"Konstnär" : "Bianca Maria Barmen",
+				"Titel" : "Träd",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -303,11 +303,11 @@
 				"coordinates" : [ 12.9634680837, 57.7252105529 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Birgitta Burling",
-				"Konstverksbenämning" : "Yta - innehåll: helhet, helande",
+				"Konstnär" : "Birgitta Burling",
+				"Titel" : "Yta - innehåll: helhet, helande",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Framställningsår" : 2021,
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -317,11 +317,11 @@
 				"coordinates" : [ 13.8519094416, 58.425913903 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Birgitta Samuelsson",
-				"Konstverksbenämning" : "Växande/Growing",
+				"Konstnär" : "Birgitta Samuelsson",
+				"Titel" : "Växande/Growing",
 				"Konsttyp" : "Blandteknik",
-				"Framställningsår" : "2016",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2016,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -331,11 +331,11 @@
 				"coordinates" : [ 12.1183785042, 57.7903852774 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Brita Wimnell-Macke",
-				"Konstverksbenämning" : "Dansande Dervischer eller balans i världen",
+				"Konstnär" : "Brita Wimnell-Macke",
+				"Titel" : "Dansande Dervischer eller balans i världen",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -345,11 +345,11 @@
 				"coordinates" : [ 11.9625774741, 57.682702668 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Britta Nehrman",
-				"Konstverksbenämning" : "Åsa",
+				"Konstnär" : "Britta Nehrman",
+				"Titel" : "Åsa",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "1947",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Framställningsår" : 1947,
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -359,11 +359,11 @@
 				"coordinates" : [ 11.9623264857, 57.6827431843 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Carl Milles",
-				"Konstverksbenämning" : "Genius",
+				"Konstnär" : "Carl Milles",
+				"Titel" : "Genius",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -373,11 +373,11 @@
 				"coordinates" : [ 12.0488303452, 57.795848191 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Caroline Bäckman",
-				"Konstverksbenämning" : "Through the dance",
+				"Konstnär" : "Caroline Bäckman",
+				"Titel" : "Through the dance",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2019",
-				"Förvaltningsobjektsbenämning" : "Angered resecentrum"
+				"Framställningsår" : 2019,
+				"Plats" : "Angered resecentrum"
 			}
 		},
 		{
@@ -387,11 +387,11 @@
 				"coordinates" : [ 12.0514723967, 57.7214488854 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Cecilia / Mathilda Aaro Fahlsten",
-				"Konstverksbenämning" : "Korset och Stjärnan",
+				"Konstnär" : "Cecilia / Mathilda Aaro Fahlsten",
+				"Titel" : "Korset och Stjärnan",
 				"Konsttyp" : "Blandteknik",
-				"Framställningsår" : "2016",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2016,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -401,11 +401,11 @@
 				"coordinates" : [ 11.9600918924, 57.6821388877 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Christian Sandell",
-				"Konstverksbenämning" : "Transmission 2.0",
+				"Konstnär" : "Christian Sandell",
+				"Titel" : "Transmission 2.0",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2017",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Framställningsår" : 2017,
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -415,11 +415,11 @@
 				"coordinates" : [ 13.103, 57.503475 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Daniel EKTA Götesson",
-				"Konstverksbenämning" : "How Are You I",
+				"Konstnär" : "Daniel EKTA Götesson",
+				"Titel" : "How Are You I",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Naturbruk Svenljunga"
+				"Framställningsår" : 2023,
+				"Plats" : "Naturbruk Svenljunga"
 			}
 		},
 		{
@@ -429,11 +429,11 @@
 				"coordinates" : [ 13.102697, 57.503542 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Daniel EKTA Götesson",
-				"Konstverksbenämning" : "How Are you III",
+				"Konstnär" : "Daniel EKTA Götesson",
+				"Titel" : "How Are you III",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Naturbruk Svenljunga"
+				"Framställningsår" : 2023,
+				"Plats" : "Naturbruk Svenljunga"
 			}
 		},
 		{
@@ -443,11 +443,11 @@
 				"coordinates" : [ 12.0478780518, 57.7963024556 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "David Svensson",
-				"Konstverksbenämning" : "Ljusdagrar #2",
+				"Konstnär" : "David Svensson",
+				"Titel" : "Ljusdagrar #2",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2015",
-				"Förvaltningsobjektsbenämning" : "Angereds Närsjukhus"
+				"Framställningsår" : 2015,
+				"Plats" : "Angereds Närsjukhus"
 			}
 		},
 		{
@@ -457,11 +457,11 @@
 				"coordinates" : [ 13.8519089618, 58.4246355215 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "David Svensson",
-				"Konstverksbenämning" : "Stenens väg",
+				"Konstnär" : "David Svensson",
+				"Titel" : "Stenens väg",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2022",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2022,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -471,11 +471,11 @@
 				"coordinates" : [ 12.0522366473, 57.7203563827 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Denice Zetterquist",
-				"Konstverksbenämning" : "Till glädje",
+				"Konstnär" : "Denice Zetterquist",
+				"Titel" : "Till glädje",
 				"Konsttyp" : "Emalj",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -485,11 +485,11 @@
 				"coordinates" : [ 12.9623724964, 57.7247402168 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Ditte Reijers",
-				"Konstverksbenämning" : "I own my brain",
+				"Konstnär" : "Ditte Reijers",
+				"Titel" : "I own my brain",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -499,11 +499,11 @@
 				"coordinates" : [ 13.5542344266, 58.1888421718 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Edvin Öhrström",
-				"Konstverksbenämning" : "Guldålder",
+				"Konstnär" : "Edvin Öhrström",
+				"Titel" : "Guldålder",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Falköping"
+				"Plats" : "Skaraborgs sjukhus Falköping"
 			}
 		},
 		{
@@ -513,11 +513,11 @@
 				"coordinates" : [ 13.561861, 58.398972 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Emma Kronvall",
-				"Konstverksbenämning" : "Två själar samma tanke",
+				"Konstnär" : "Emma Kronvall",
+				"Titel" : "Två själar samma tanke",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2024",
-				"Förvaltningsobjektsbenämning" : "Naturbruk Axevalla"
+				"Framställningsår" : 2024,
+				"Plats" : "Naturbruk Axevalla"
 			}
 		},
 		{
@@ -527,11 +527,11 @@
 				"coordinates" : [ 12.263991, 58.31913 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Emma Ströde",
-				"Konstverksbenämning" : "Uttis",
+				"Konstnär" : "Emma Ströde",
+				"Titel" : "Uttis",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -541,11 +541,11 @@
 				"coordinates" : [ 11.9613498263, 57.6829453139 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Ernst Billgren",
-				"Konstverksbenämning" : "Mötesplats",
+				"Konstnär" : "Ernst Billgren",
+				"Titel" : "Mötesplats",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "1995",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Framställningsår" : 1995,
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -555,11 +555,11 @@
 				"coordinates" : [ 11.92988, 57.66738 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Eva Beierheimer",
-				"Konstverksbenämning" : "Sekvens #1-3",
+				"Konstnär" : "Eva Beierheimer",
+				"Titel" : "Sekvens #1-3",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Högsbo sjukhus"
+				"Framställningsår" : 2023,
+				"Plats" : "Högsbo sjukhus"
 			}
 		},
 		{
@@ -569,11 +569,11 @@
 				"coordinates" : [ 12.647388185, 57.4925542009 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Eva Berggren",
-				"Konstverksbenämning" : "På räck",
+				"Konstnär" : "Eva Berggren",
+				"Titel" : "På räck",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skene lasarett"
+				"Plats" : "Skene lasarett"
 			}
 		},
 		{
@@ -583,11 +583,11 @@
 				"coordinates" : [ 13.1514463155, 58.4971885159 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Eva Ullberg",
-				"Konstverksbenämning" : "Längs vattenbrynet",
+				"Konstnär" : "Eva Ullberg",
+				"Titel" : "Längs vattenbrynet",
 				"Konsttyp" : "Objekt",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Lidköping"
+				"Plats" : "Skaraborgs sjukhus Lidköping"
 			}
 		},
 		{
@@ -597,11 +597,11 @@
 				"coordinates" : [ 13.1515004465, 58.4971602302 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Eva Ullberg",
-				"Konstverksbenämning" : "Årsringar",
+				"Konstnär" : "Eva Ullberg",
+				"Titel" : "Årsringar",
 				"Konsttyp" : "Objekt",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Lidköping"
+				"Plats" : "Skaraborgs sjukhus Lidköping"
 			}
 		},
 		{
@@ -611,11 +611,11 @@
 				"coordinates" : [ 12.0533730377, 57.7198487775 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Eva/Torbjörn Brodin/Steijner",
-				"Konstverksbenämning" : "Haren och fågeln",
+				"Konstnär" : "Eva/Torbjörn Brodin/Steijner",
+				"Titel" : "Haren och fågeln",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2006",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2006,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -625,11 +625,11 @@
 				"coordinates" : [ 13.8487435779, 58.4276805256 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Felicia Björklund",
-				"Konstverksbenämning" : "Eclipse",
+				"Konstnär" : "Felicia Björklund",
+				"Titel" : "Eclipse",
 				"Konsttyp" : "Övrigt",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -639,11 +639,11 @@
 				"coordinates" : [ 12.263991, 58.31913 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Fredrik Vestergård",
-				"Konstverksbenämning" : "Ljuspunkter",
+				"Konstnär" : "Fredrik Vestergård",
+				"Titel" : "Ljuspunkter",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Framställningsår" : 2021,
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -653,11 +653,11 @@
 				"coordinates" : [ 12.263991, 58.31913 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Fredrik Vestergård",
-				"Konstverksbenämning" : "Ljuspunkter",
+				"Konstnär" : "Fredrik Vestergård",
+				"Titel" : "Ljuspunkter",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Framställningsår" : 2021,
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -667,11 +667,11 @@
 				"coordinates" : [ 12.263991, 58.31913 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Fredrik Vestergård",
-				"Konstverksbenämning" : "Ljuspunkter",
+				"Konstnär" : "Fredrik Vestergård",
+				"Titel" : "Ljuspunkter",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Framställningsår" : 2021,
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -681,11 +681,11 @@
 				"coordinates" : [ 12.6468571347, 57.492562355 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Graham Stacy",
-				"Konstverksbenämning" : "Räv",
+				"Konstnär" : "Graham Stacy",
+				"Titel" : "Räv",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skene lasarett"
+				"Plats" : "Skene lasarett"
 			}
 		},
 		{
@@ -695,11 +695,11 @@
 				"coordinates" : [ 12.0128823934, 57.6616248838 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Gunilla Bergström",
-				"Konstverksbenämning" : "Pinus IV",
+				"Konstnär" : "Gunilla Bergström",
+				"Titel" : "Pinus IV",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2015",
-				"Förvaltningsobjektsbenämning" : "Mölndals sjukhus"
+				"Framställningsår" : 2015,
+				"Plats" : "Mölndals sjukhus"
 			}
 		},
 		{
@@ -709,11 +709,11 @@
 				"coordinates" : [ 12.1183616354, 57.7894441562 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Gunnvi Bengtsson",
-				"Konstverksbenämning" : "Sitt, titt och tänksten.",
+				"Konstnär" : "Gunnvi Bengtsson",
+				"Titel" : "Sitt, titt och tänksten.",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -723,11 +723,11 @@
 				"coordinates" : [ 12.1181685164, 57.7890781502 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Gunnvi Bengtsson",
-				"Konstverksbenämning" : "Sitt, titt och tänksten.",
+				"Konstnär" : "Gunnvi Bengtsson",
+				"Titel" : "Sitt, titt och tänksten.",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -737,11 +737,11 @@
 				"coordinates" : [ 11.9276118946, 58.3559138913 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Gunvi Bengtsson",
-				"Konstverksbenämning" : "Uppåt-Framåt",
+				"Konstnär" : "Gunvi Bengtsson",
+				"Titel" : "Uppåt-Framåt",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Uddevalla sjukhus"
+				"Plats" : "Uddevalla sjukhus"
 			}
 		},
 		{
@@ -751,11 +751,11 @@
 				"coordinates" : [ 13.8527626152, 58.4260459697 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Göran Danielsson",
-				"Konstverksbenämning" : "Solaris",
+				"Konstnär" : "Göran Danielsson",
+				"Titel" : "Solaris",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -765,11 +765,11 @@
 				"coordinates" : [ 12.0125106791, 57.661260697 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Görel Steg",
-				"Konstverksbenämning" : "Pelare",
+				"Konstnär" : "Görel Steg",
+				"Titel" : "Pelare",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "1995",
-				"Förvaltningsobjektsbenämning" : "Mölndals sjukhus"
+				"Framställningsår" : 1995,
+				"Plats" : "Mölndals sjukhus"
 			}
 		},
 		{
@@ -779,11 +779,11 @@
 				"coordinates" : [ 12.3290378563, 58.3768477124 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Hans Hillerström",
-				"Konstverksbenämning" : "Ungen",
+				"Konstnär" : "Hans Hillerström",
+				"Titel" : "Ungen",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Klövern 7, Reg Hus, Vänersborg"
+				"Plats" : "Klövern 7, Reg Hus, Vänersborg"
 			}
 		},
 		{
@@ -793,11 +793,11 @@
 				"coordinates" : [ 11.9593294378, 57.6821731336 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Håkan Dahlén",
-				"Konstverksbenämning" : "Utan titel",
+				"Konstnär" : "Håkan Dahlén",
+				"Titel" : "Utan titel",
 				"Konsttyp" : "Objekt",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -807,11 +807,11 @@
 				"coordinates" : [ 13.5523262596, 58.1877500772 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Ingemar Beiron",
-				"Konstverksbenämning" : "Tre dansande tranor",
+				"Konstnär" : "Ingemar Beiron",
+				"Titel" : "Tre dansande tranor",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Falköping"
+				"Plats" : "Skaraborgs sjukhus Falköping"
 			}
 		},
 		{
@@ -821,11 +821,11 @@
 				"coordinates" : [ 12.0539130782, 57.7189192623 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Irina My Lindqvist",
-				"Konstverksbenämning" : "Livets Rytm",
+				"Konstnär" : "Irina My Lindqvist",
+				"Titel" : "Livets Rytm",
 				"Konsttyp" : "Blandteknik",
-				"Framställningsår" : "2016",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2016,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -835,11 +835,11 @@
 				"coordinates" : [ 11.9997634286, 58.5680032542 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Jan Hilmersson",
-				"Konstverksbenämning" : "Änglar och vingar",
+				"Konstnär" : "Jan Hilmersson",
+				"Titel" : "Änglar och vingar",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Dalslands folkhögskola"
+				"Plats" : "Dalslands folkhögskola"
 			}
 		},
 		{
@@ -849,11 +849,11 @@
 				"coordinates" : [ 11.966515987, 57.8781626722 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Jennifer Forsberg",
-				"Konstverksbenämning" : "Terra Nullius",
+				"Konstnär" : "Jennifer Forsberg",
+				"Titel" : "Terra Nullius",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Kungälvs sjukhus"
+				"Framställningsår" : 2021,
+				"Plats" : "Kungälvs sjukhus"
 			}
 		},
 		{
@@ -863,11 +863,11 @@
 				"coordinates" : [ 12.0518264482, 57.7200107314 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Jesper Nyrén",
-				"Konstverksbenämning" : "Landskap",
+				"Konstnär" : "Jesper Nyrén",
+				"Titel" : "Landskap",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2021,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -877,11 +877,11 @@
 				"coordinates" : [ 13.846372687, 58.4269039639 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Jessica och Niklas Fännick",
-				"Konstverksbenämning" : "Fågel, fisk och mittemellan - mjuka världen allt för sällan",
+				"Konstnär" : "Jessica och Niklas Fännick",
+				"Titel" : "Fågel, fisk och mittemellan - mjuka världen allt för sällan",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2023,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -891,11 +891,11 @@
 				"coordinates" : [ 12.0506482758, 57.7192265075 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Joakim Ojanen",
-				"Konstverksbenämning" : "Symbios - Människan och naturen",
+				"Konstnär" : "Joakim Ojanen",
+				"Titel" : "Symbios - Människan och naturen",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2021,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -905,11 +905,11 @@
 				"coordinates" : [ 12.9611172653, 57.7247422978 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "John Hedaeus",
-				"Konstverksbenämning" : "Aesklepius",
+				"Konstnär" : "John Hedaeus",
+				"Titel" : "Aesklepius",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -919,11 +919,11 @@
 				"coordinates" : [ 11.9621746894, 57.6811020496 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Jörgen H M Byström",
-				"Konstverksbenämning" : "Gyckelspel",
+				"Konstnär" : "Jörgen H M Byström",
+				"Titel" : "Gyckelspel",
 				"Konsttyp" : "Emalj",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -933,11 +933,11 @@
 				"coordinates" : [ 13.8457983285, 58.4272164507 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Katarina Löfström",
-				"Konstverksbenämning" : "Liquid Sky",
+				"Konstnär" : "Katarina Löfström",
+				"Titel" : "Liquid Sky",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2023,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -947,11 +947,11 @@
 				"coordinates" : [ 13.5549022296, 58.1911773647 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Kerstin Dahl-Norén",
-				"Konstverksbenämning" : "Källan",
+				"Konstnär" : "Kerstin Dahl-Norén",
+				"Titel" : "Källan",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2011",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Falköping"
+				"Framställningsår" : 2011,
+				"Plats" : "Skaraborgs sjukhus Falköping"
 			}
 		},
 		{
@@ -961,11 +961,11 @@
 				"coordinates" : [ 12.0505222958, 57.7225869382 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Klas Barbrosson",
-				"Konstverksbenämning" : "Pruttkuddeträdet (Arbor velutum flatum)",
+				"Konstnär" : "Klas Barbrosson",
+				"Titel" : "Pruttkuddeträdet (Arbor velutum flatum)",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2023,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -975,11 +975,11 @@
 				"coordinates" : [ 11.959405122, 57.6827313488 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Lars Englund",
-				"Konstverksbenämning" : "Utan titel",
+				"Konstnär" : "Lars Englund",
+				"Titel" : "Utan titel",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -989,11 +989,11 @@
 				"coordinates" : [ 13.5552511078, 58.1909846586 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Lars Hansson",
-				"Konstverksbenämning" : "Sfär och klot",
+				"Konstnär" : "Lars Hansson",
+				"Titel" : "Sfär och klot",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Falköping"
+				"Plats" : "Skaraborgs sjukhus Falköping"
 			}
 		},
 		{
@@ -1003,11 +1003,11 @@
 				"coordinates" : [ 11.9661643446, 57.70874916 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Lars-Erik Ström",
-				"Konstverksbenämning" : "I verket",
+				"Konstnär" : "Lars-Erik Ström",
+				"Titel" : "I verket",
 				"Konsttyp" : "Emalj",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Nordstaden 24:10"
+				"Plats" : "Nordstaden 24:10"
 			}
 		},
 		{
@@ -1017,11 +1017,11 @@
 				"coordinates" : [ 12.2635044404, 58.3184736504 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Lena Lervik",
-				"Konstverksbenämning" : "Skyddsmantelmadonna",
+				"Konstnär" : "Lena Lervik",
+				"Titel" : "Skyddsmantelmadonna",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -1031,11 +1031,11 @@
 				"coordinates" : [ 11.9303877507, 58.356148788 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Leo Pettersson",
-				"Konstverksbenämning" : "Hjärta",
+				"Konstnär" : "Leo Pettersson",
+				"Titel" : "Hjärta",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Uddevalla sjukhus"
+				"Plats" : "Uddevalla sjukhus"
 			}
 		},
 		{
@@ -1045,11 +1045,11 @@
 				"coordinates" : [ 11.9299398218, 58.3562402551 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Leo Pettersson",
-				"Konstverksbenämning" : "Kil",
+				"Konstnär" : "Leo Pettersson",
+				"Titel" : "Kil",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Uddevalla sjukhus"
+				"Plats" : "Uddevalla sjukhus"
 			}
 		},
 		{
@@ -1059,11 +1059,11 @@
 				"coordinates" : [ 11.9298635028, 58.3563710377 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Leo Pettersson",
-				"Konstverksbenämning" : "Stjärna",
+				"Konstnär" : "Leo Pettersson",
+				"Titel" : "Stjärna",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Uddevalla sjukhus"
+				"Plats" : "Uddevalla sjukhus"
 			}
 		},
 		{
@@ -1073,11 +1073,11 @@
 				"coordinates" : [ 11.9656074979, 57.6804204751 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Linnea Jörpeland",
-				"Konstverksbenämning" : "På kvällskvisten",
+				"Konstnär" : "Linnea Jörpeland",
+				"Titel" : "På kvällskvisten",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1087,11 +1087,11 @@
 				"coordinates" : [ 11.9656250998, 57.6804184216 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Linnea Jörpeland",
-				"Konstverksbenämning" : "Stråk",
+				"Konstnär" : "Linnea Jörpeland",
+				"Titel" : "Stråk",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1101,11 +1101,11 @@
 				"coordinates" : [ 11.9656674335, 57.6804851438 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Linnea Jörpeland",
-				"Konstverksbenämning" : "Vingslag",
+				"Konstnär" : "Linnea Jörpeland",
+				"Titel" : "Vingslag",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1115,11 +1115,11 @@
 				"coordinates" : [ 13.8518762005, 58.4281162976 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Magdalena Nilsson",
-				"Konstverksbenämning" : "Sedimentation",
+				"Konstnär" : "Magdalena Nilsson",
+				"Titel" : "Sedimentation",
 				"Konsttyp" : "Relief",
-				"Framställningsår" : "2019",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2019,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -1129,11 +1129,11 @@
 				"coordinates" : [ 11.9677778461, 57.8718615496 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Magdolna Szabó",
-				"Konstverksbenämning" : "Glimt",
+				"Konstnär" : "Magdolna Szabó",
+				"Titel" : "Glimt",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2018",
-				"Förvaltningsobjektsbenämning" : "Kungälv Resecentrum"
+				"Framställningsår" : 2018,
+				"Plats" : "Kungälv Resecentrum"
 			}
 		},
 		{
@@ -1143,11 +1143,11 @@
 				"coordinates" : [ 12.2833186442, 58.2937106755 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Maria Sjöström",
-				"Konstverksbenämning" : "Prismadonnan",
+				"Konstnär" : "Maria Sjöström",
+				"Titel" : "Prismadonnan",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Källstorplyckan 1"
+				"Plats" : "Källstorplyckan 1"
 			}
 		},
 		{
@@ -1157,11 +1157,11 @@
 				"coordinates" : [ 12.1168381408, 57.7899159554 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Marie Bondeson",
-				"Konstverksbenämning" : "En sittplats för Zen",
+				"Konstnär" : "Marie Bondeson",
+				"Titel" : "En sittplats för Zen",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -1171,11 +1171,11 @@
 				"coordinates" : [ 12.1163446144, 57.7896443142 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Marie Bondeson",
-				"Konstverksbenämning" : "En sittplats för Zen",
+				"Konstnär" : "Marie Bondeson",
+				"Titel" : "En sittplats för Zen",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -1185,11 +1185,11 @@
 				"coordinates" : [ 13.5541273032, 58.1870360184 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Marléne/Anette Kangas/Gustafsson",
-				"Konstverksbenämning" : "Konst under bar himmel",
+				"Konstnär" : "Marléne/Anette Kangas/Gustafsson",
+				"Titel" : "Konst under bar himmel",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Falköping"
+				"Plats" : "Skaraborgs sjukhus Falköping"
 			}
 		},
 		{
@@ -1199,11 +1199,11 @@
 				"coordinates" : [ 12.1186083986, 57.7899817208 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Martin Hansson",
-				"Konstverksbenämning" : "Stormigt hav",
+				"Konstnär" : "Martin Hansson",
+				"Titel" : "Stormigt hav",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -1213,11 +1213,11 @@
 				"coordinates" : [ 12.1184581949, 57.789635736 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Martin Hansson",
-				"Konstverksbenämning" : "Treenighet",
+				"Konstnär" : "Martin Hansson",
+				"Titel" : "Treenighet",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -1227,11 +1227,11 @@
 				"coordinates" : [ 12.9641158373, 57.7264601668 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Mats Olofgörs",
-				"Konstverksbenämning" : "Facettes",
+				"Konstnär" : "Mats Olofgörs",
+				"Titel" : "Facettes",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2021",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Framställningsår" : 2021,
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -1241,11 +1241,11 @@
 				"coordinates" : [ 13.850667, 58.429083 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Monica Höll",
-				"Konstverksbenämning" : "Krater platå",
+				"Konstnär" : "Monica Höll",
+				"Titel" : "Krater platå",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2024",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2024,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -1255,11 +1255,11 @@
 				"coordinates" : [ 11.9267286578, 58.356887493 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Monica Willner",
-				"Konstverksbenämning" : "Örnmask",
+				"Konstnär" : "Monica Willner",
+				"Titel" : "Örnmask",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Uddevalla sjukhus"
+				"Plats" : "Uddevalla sjukhus"
 			}
 		},
 		{
@@ -1269,11 +1269,11 @@
 				"coordinates" : [ 12.0096388092, 57.6601493939 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Peder Istad",
-				"Konstverksbenämning" : "Clavicula I",
+				"Konstnär" : "Peder Istad",
+				"Titel" : "Clavicula I",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2017",
-				"Förvaltningsobjektsbenämning" : "Mölndals sjukhus"
+				"Framställningsår" : 2017,
+				"Plats" : "Mölndals sjukhus"
 			}
 		},
 		{
@@ -1283,11 +1283,11 @@
 				"coordinates" : [ 12.0092767331, 57.6604769109 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Peder Istad",
-				"Konstverksbenämning" : "Clavicula II",
+				"Konstnär" : "Peder Istad",
+				"Titel" : "Clavicula II",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2017",
-				"Förvaltningsobjektsbenämning" : "Mölndals sjukhus"
+				"Framställningsår" : 2017,
+				"Plats" : "Mölndals sjukhus"
 			}
 		},
 		{
@@ -1297,11 +1297,11 @@
 				"coordinates" : [ 12.1174335912, 57.7892382783 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Per Agelii",
-				"Konstverksbenämning" : "Snigeln",
+				"Konstnär" : "Per Agelii",
+				"Titel" : "Snigeln",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -1311,11 +1311,11 @@
 				"coordinates" : [ 12.1166772083, 57.7894956255 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Per Agelii",
-				"Konstverksbenämning" : "Svampar",
+				"Konstnär" : "Per Agelii",
+				"Titel" : "Svampar",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Rågården"
+				"Plats" : "Rågården"
 			}
 		},
 		{
@@ -1325,11 +1325,11 @@
 				"coordinates" : [ 11.6254046806, 58.0147286399 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Peter Hellbom",
-				"Konstverksbenämning" : "Harmoni",
+				"Konstnär" : "Peter Hellbom",
+				"Titel" : "Harmoni",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Billströmska folkhögskolan"
+				"Plats" : "Billströmska folkhögskolan"
 			}
 		},
 		{
@@ -1339,11 +1339,11 @@
 				"coordinates" : [ 12.9613175538, 57.7243533302 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Pontus Kjerrman",
-				"Konstverksbenämning" : "Pappan, barnen och den lilla fågeln",
+				"Konstnär" : "Pontus Kjerrman",
+				"Titel" : "Pappan, barnen och den lilla fågeln",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Södra Älvsborgs sjukhus Borås"
+				"Plats" : "Södra Älvsborgs sjukhus Borås"
 			}
 		},
 		{
@@ -1353,11 +1353,11 @@
 				"coordinates" : [ 12.0539608765, 57.7216970007 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Rocio Soto",
-				"Konstverksbenämning" : "Flow - Drops",
+				"Konstnär" : "Rocio Soto",
+				"Titel" : "Flow - Drops",
 				"Konsttyp" : "Installation",
-				"Framställningsår" : "2023",
-				"Förvaltningsobjektsbenämning" : "Östra sjukhuset"
+				"Framställningsår" : 2023,
+				"Plats" : "Östra sjukhuset"
 			}
 		},
 		{
@@ -1367,11 +1367,11 @@
 				"coordinates" : [ 13.8475168794, 58.4297862635 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Roland Persson",
-				"Konstverksbenämning" : "Mönster i naturen",
+				"Konstnär" : "Roland Persson",
+				"Titel" : "Mönster i naturen",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2022",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2022,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -1381,11 +1381,11 @@
 				"coordinates" : [ 12.2665087148, 58.31734562 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Sivert Lindblom",
-				"Konstverksbenämning" : "Amadeus",
+				"Konstnär" : "Sivert Lindblom",
+				"Titel" : "Amadeus",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -1395,11 +1395,11 @@
 				"coordinates" : [ 11.9598308835, 57.6829835888 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Staffan Nihlén",
-				"Konstverksbenämning" : "Ömhet",
+				"Konstnär" : "Staffan Nihlén",
+				"Titel" : "Ömhet",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1409,11 +1409,11 @@
 				"coordinates" : [ 11.9603408345, 57.6826464533 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Stig Blomberg",
-				"Konstverksbenämning" : "Apollon och Asklepios",
+				"Konstnär" : "Stig Blomberg",
+				"Titel" : "Apollon och Asklepios",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1423,11 +1423,11 @@
 				"coordinates" : [ 12.2675351714, 58.3187230252 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Thomas Nordström",
-				"Konstverksbenämning" : "I Gläntan",
+				"Konstnär" : "Thomas Nordström",
+				"Titel" : "I Gläntan",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2015",
-				"Förvaltningsobjektsbenämning" : "Norra Älvsborgs länssjukhus"
+				"Framställningsår" : 2015,
+				"Plats" : "Norra Älvsborgs länssjukhus"
 			}
 		},
 		{
@@ -1437,11 +1437,11 @@
 				"coordinates" : [ 11.963670966, 57.6805594215 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Thomas Nordström",
-				"Konstverksbenämning" : "Spelplats",
+				"Konstnär" : "Thomas Nordström",
+				"Titel" : "Spelplats",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1451,11 +1451,11 @@
 				"coordinates" : [ 11.969136, 57.878197 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Thord Tamming",
-				"Konstverksbenämning" : "Kustbygd",
+				"Konstnär" : "Thord Tamming",
+				"Titel" : "Kustbygd",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "1992",
-				"Förvaltningsobjektsbenämning" : "Kungälvs sjukhus"
+				"Framställningsår" : 1992,
+				"Plats" : "Kungälvs sjukhus"
 			}
 		},
 		{
@@ -1465,11 +1465,11 @@
 				"coordinates" : [ 13.8515008887, 58.4279276878 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Torbjörn Johansson",
-				"Konstverksbenämning" : "Sten,droppe och himmel av färg",
+				"Konstnär" : "Torbjörn Johansson",
+				"Titel" : "Sten,droppe och himmel av färg",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2019",
-				"Förvaltningsobjektsbenämning" : "Skaraborgs sjukhus Skövde"
+				"Framställningsår" : 2019,
+				"Plats" : "Skaraborgs sjukhus Skövde"
 			}
 		},
 		{
@@ -1479,11 +1479,11 @@
 				"coordinates" : [ 11.999864302, 58.5679361386 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Ulf Johnsson",
-				"Konstverksbenämning" : "Nästan",
+				"Konstnär" : "Ulf Johnsson",
+				"Titel" : "Nästan",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Dalslands folkhögskola"
+				"Plats" : "Dalslands folkhögskola"
 			}
 		},
 		{
@@ -1493,11 +1493,11 @@
 				"coordinates" : [ 11.6253678283, 58.0148643086 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Ulf Johnsson",
-				"Konstverksbenämning" : "Stor Knapp",
+				"Konstnär" : "Ulf Johnsson",
+				"Titel" : "Stor Knapp",
 				"Konsttyp" : "Skulptur",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Billströmska folkhögskolan"
+				"Plats" : "Billströmska folkhögskolan"
 			}
 		},
 		{
@@ -1507,11 +1507,11 @@
 				"coordinates" : [ 11.9499462355, 57.6828335067 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Vera Ohlsson",
-				"Konstverksbenämning" : "Utan titel",
+				"Konstnär" : "Vera Ohlsson",
+				"Titel" : "Utan titel",
 				"Konsttyp" : "Blandteknik",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Botaniska trädgården"
+				"Plats" : "Botaniska trädgården"
 			}
 		},
 		{
@@ -1521,11 +1521,11 @@
 				"coordinates" : [ 11.9937630114, 57.7090831227 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Åke Nordström",
-				"Konstverksbenämning" : "Utan titel",
+				"Konstnär" : "Åke Nordström",
+				"Titel" : "Utan titel",
 				"Konsttyp" : "Installation",
 				"Framställningsår" : "",
-				"Förvaltningsobjektsbenämning" : "Spårvagnsdepå Rantorget"
+				"Plats" : "Spårvagnsdepå Rantorget"
 			}
 		},
 		{
@@ -1535,11 +1535,11 @@
 				"coordinates" : [ 11.9611864904, 57.6825068336 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Åsa Herrgård",
-				"Konstverksbenämning" : "Stranden en plats för tankar och meditation",
+				"Konstnär" : "Åsa Herrgård",
+				"Titel" : "Stranden en plats för tankar och meditation",
 				"Konsttyp" : "Blandteknik",
-				"Framställningsår" : "2011",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Framställningsår" : 2011,
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		},
 		{
@@ -1549,11 +1549,11 @@
 				"coordinates" : [ 11.9612606829, 57.6825496456 ]
 			},
 			"properties" : {
-				"Konstnärsnamn" : "Åsa Herrgård",
-				"Konstverksbenämning" : "Stranden en plats för tankar och meditation",
+				"Konstnär" : "Åsa Herrgård",
+				"Titel" : "Stranden en plats för tankar och meditation",
 				"Konsttyp" : "Skulptur",
-				"Framställningsår" : "2011",
-				"Förvaltningsobjektsbenämning" : "Sahlgrenska sjukhuset"
+				"Framställningsår" : 2011,
+				"Plats" : "Sahlgrenska sjukhuset"
 			}
 		}
 	]
