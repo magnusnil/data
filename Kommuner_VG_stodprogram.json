@@ -262,12 +262,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ale",
-				"Program A" : "sddfdsdf",
-				"Program B" : "gj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -696,12 +696,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Alingsås",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : "PROG003",
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -1418,12 +1418,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Bengtsfors",
-				"Program A" : null,
-				"Program B" : "gjghj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : "PROG003",
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -1672,12 +1672,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Bollebygd",
-				"Program A" : null,
-				"Program B" : "gjghj",
-				"Program C" : "gj",
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -2222,12 +2222,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Borås",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "gj",
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -3124,12 +3124,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Dals-Ed",
-				"Program A" : "gj",
-				"Program B" : "gj",
-				"Program C" : "gj",
-				"Program D" : "ghhj",
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -3540,12 +3540,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Essunga",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "ghj",
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -4564,12 +4564,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Falköping",
-				"Program A" : null,
-				"Program B" : "gj",
-				"Program C" : null,
-				"Program D" : "gj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -4970,12 +4970,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Färgelanda",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "gj",
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -5458,12 +5458,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Grästorp",
-				"Program A" : "sddfsdf",
-				"Program B" : null,
-				"Program C" : "gj",
-				"Program D" : null,
-				"Program E" : "ghhj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -6912,12 +6912,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Gullspång",
-				"Program A" : null,
-				"Program B" : "ghj",
-				"Program C" : null,
-				"Program D" : "j",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : "PROG005",
+				"PROG006" : null
 			}
 		},
 		{
@@ -10359,12 +10359,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Göteborg",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "g",
-				"Program D" : null,
-				"Program E" : "ghj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : "PROG005",
+				"PROG006" : null
 			}
 		},
 		{
@@ -11489,12 +11489,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Götene",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "gj",
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -11832,12 +11832,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Herrljunga",
-				"Program A" : "gj",
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "ghj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -12602,12 +12602,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Hjo",
-				"Program A" : null,
-				"Program B" : "j",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "jgh",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -12887,12 +12887,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Härryda",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "gj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -14653,12 +14653,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Karlsborg",
-				"Program A" : "jgh",
-				"Program B" : "gj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -17179,12 +17179,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Kungälv",
-				"Program A" : null,
-				"Program B" : "fsd",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -17410,12 +17410,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lerum",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "dghfj",
-				"Program E" : null,
-				"Program F" : "gjghj"
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -20886,12 +20886,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lidköping",
-				"Program A" : null,
-				"Program B" : "g",
-				"Program C" : "sdf",
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -21294,12 +21294,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lilla Edet",
-				"Program A" : null,
-				"Program B" : "j",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -23793,12 +23793,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Lysekil",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -27312,12 +27312,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mariestad",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "ghj",
-				"Program D" : null,
-				"Program E" : "ghhjg",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -27944,12 +27944,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mark",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -29191,12 +29191,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mellerud",
-				"Program A" : "ghj",
-				"Program B" : null,
-				"Program C" : "g",
-				"Program D" : "ghhj",
-				"Program E" : "hj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -29985,12 +29985,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Munkedal",
-				"Program A" : null,
-				"Program B" : "sddfsddf",
-				"Program C" : null,
-				"Program D" : "ghhj",
-				"Program E" : "ghh",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -30162,12 +30162,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Mölndal",
-				"Program A" : null,
-				"Program B" : "j",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -34094,12 +34094,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Orust",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "gj",
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -34177,12 +34177,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Partille",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "jg",
-				"Program D" : "gj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -34943,12 +34943,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Skara",
-				"Program A" : "sddf",
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -35933,12 +35933,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Skövde",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "ghj",
-				"Program D" : null,
-				"Program E" : "ghhj",
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -37733,12 +37733,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Sotenäs",
-				"Program A" : null,
-				"Program B" : "gj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : "PROG005",
+				"PROG006" : null
 			}
 		},
 		{
@@ -38663,12 +38663,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Stenungsund",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "gh",
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : "PROG005",
+				"PROG006" : null
 			}
 		},
 		{
@@ -42630,12 +42630,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Strömstad",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "ghhjgh",
-				"Program F" : "ghj"
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -43302,12 +43302,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Svenljunga",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -48387,12 +48387,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tanum",
-				"Program A" : "gj",
-				"Program B" : "ghhjgh",
-				"Program C" : "gj",
-				"Program D" : "sddf",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -48786,12 +48786,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tibro",
-				"Program A" : null,
-				"Program B" : "gj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -49229,12 +49229,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tidaholm",
-				"Program A" : "jgh",
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "ghhj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -52081,12 +52081,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tjörn",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "ghj",
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -52573,12 +52573,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Tranemo",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "jgh",
-				"Program F" : "ghj"
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -53111,12 +53111,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Trollhättan",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : "gj",
-				"Program D" : "gj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : "PROG001",
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -53776,12 +53776,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Töreboda",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "ghj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -56403,12 +56403,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Uddevalla",
-				"Program A" : "ghj",
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "gj",
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : "PROG005",
+				"PROG006" : null
 			}
 		},
 		{
@@ -56880,12 +56880,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Ulricehamn",
-				"Program A" : null,
-				"Program B" : "ghj",
-				"Program C" : "ghj",
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : "PROG005",
+				"PROG006" : null
 			}
 		},
 		{
@@ -57546,12 +57546,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vara",
-				"Program A" : null,
-				"Program B" : "ghj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : "gj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -57818,12 +57818,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vårgårda",
-				"Program A" : "ghhj",
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		},
 		{
@@ -59491,12 +59491,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Vänersborg",
-				"Program A" : null,
-				"Program B" : null,
-				"Program C" : null,
-				"Program D" : "ghhj",
-				"Program E" : "hhj",
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : null,
+				"PROG003" : "PROG003",
+				"PROG004" : "PROG004",
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -61122,12 +61122,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Åmål",
-				"Program A" : null,
-				"Program B" : "gj",
-				"Program C" : null,
-				"Program D" : null,
-				"Program E" : null,
-				"Program F" : null
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : "PROG006"
 			}
 		},
 		{
@@ -62442,12 +62442,12 @@
 			},
 			"properties" : {
 				"Kommunnamn" : "Öckerö",
-				"Program A" : null,
-				"Program B" : "fh",
-				"Program C" : null,
-				"Program D" : "fh",
-				"Program E" : "fh",
-				"Program F" : "fgh"
+				"PROG001" : null,
+				"PROG002" : "PROG002",
+				"PROG003" : null,
+				"PROG004" : null,
+				"PROG005" : null,
+				"PROG006" : null
 			}
 		}
 	]
