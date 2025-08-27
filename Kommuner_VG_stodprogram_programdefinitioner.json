@@ -1,0 +1,38 @@
+[
+	{
+		"json_featuretype" : "Programdefinitioner",
+		"ProgramID" : "PROG001",
+		"Namn" : "A",
+		"Beskrivning" : "Detta program handlar om…"
+	},
+	{
+		"json_featuretype" : "Programdefinitioner",
+		"ProgramID" : "PROG002",
+		"Namn" : "B",
+		"Beskrivning" : "Detta program handlar om…"
+	},
+	{
+		"json_featuretype" : "Programdefinitioner",
+		"ProgramID" : "PROG003",
+		"Namn" : "C",
+		"Beskrivning" : "Detta program handlar om…"
+	},
+	{
+		"json_featuretype" : "Programdefinitioner",
+		"ProgramID" : "PROG004",
+		"Namn" : "D",
+		"Beskrivning" : "Detta program handlar om…"
+	},
+	{
+		"json_featuretype" : "Programdefinitioner",
+		"ProgramID" : "PROG005",
+		"Namn" : "E",
+		"Beskrivning" : "Detta program handlar om…"
+	},
+	{
+		"json_featuretype" : "Programdefinitioner",
+		"ProgramID" : "PROG006",
+		"Namn" : "F",
+		"Beskrivning" : "Detta program handlar om…"
+	}
+]
