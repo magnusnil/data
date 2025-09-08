@@ -2,36 +2,42 @@
 	{
 		"json_featuretype" : "Programdefinitioner",
 		"ProgramID" : "PROG001",
+		"Kategori" : "Psykisk ohälsa",
 		"Namn" : "A",
 		"Beskrivning" : "Detta program handlar om…"
 	},
 	{
 		"json_featuretype" : "Programdefinitioner",
 		"ProgramID" : "PROG002",
+		"Kategori" : "Psykisk ohälsa",
 		"Namn" : "B",
 		"Beskrivning" : "Detta program handlar om…"
 	},
 	{
 		"json_featuretype" : "Programdefinitioner",
 		"ProgramID" : "PROG003",
+		"Kategori" : "Psykisk ohälsa",
 		"Namn" : "C",
 		"Beskrivning" : "Detta program handlar om…"
 	},
 	{
 		"json_featuretype" : "Programdefinitioner",
 		"ProgramID" : "PROG004",
+		"Kategori" : "Sorgstöd",
 		"Namn" : "D",
 		"Beskrivning" : "Detta program handlar om…"
 	},
 	{
 		"json_featuretype" : "Programdefinitioner",
 		"ProgramID" : "PROG005",
+		"Kategori" : "Sorgstöd",
 		"Namn" : "E",
 		"Beskrivning" : "Detta program handlar om…"
 	},
 	{
 		"json_featuretype" : "Programdefinitioner",
 		"ProgramID" : "PROG006",
+		"Kategori" : "Sorgstöd",
 		"Namn" : "F",
 		"Beskrivning" : "Detta program handlar om…"
 	}
