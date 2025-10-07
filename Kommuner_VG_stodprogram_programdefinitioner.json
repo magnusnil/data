@@ -4,7 +4,7 @@
 		"ProgramID" : "PROG001",
 		"Organisation" : "BRIS",
 		"Titel" : "För dig som har frågor om barn och unga",
-		"Beskrivning" : "Bris erbjuder en stödlinje för vuxna som har frågor om barn och unga. Erfarna kuratorer svarar, och du kan alltid vara anonym. Bris vuxenstöd utgår alltid från barnets perspektiv och rättigheter.                          ",
+		"Beskrivning" : "Bris erbjuder en stödlinje för vuxna som har frågor om barn och unga. Erfarna kuratorer svarar och du kan alltid vara anonym. Bris vuxenstöd utgår alltid från barnets perspektiv och rättigheter.",
 		"Lank" : "<a href=\"https://www.bris.se/for-vuxna/bris-stodlinjer-for-vuxna-om-barn/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -12,7 +12,7 @@
 		"ProgramID" : "PROG002",
 		"Organisation" : "BRIS",
 		"Titel" : "BRIS mottagningar",
-		"Beskrivning" : "På våra mottagningar möter vi barn som mår dåligt på något sätt för att för att ge stöd kring det som är viktigt för just det barnet. Alla barn upp till 18 år är välkomna. ",
+		"Beskrivning" : "På våra mottagningar möter vi barn som mår dåligt på något sätt för att för att ge stöd kring det som är viktigt för just det barnet. Alla barn upp till 18 år är välkomna.",
 		"Lank" : "<a href=\"https://www.bris.se/for-vuxna/vara-brismottagningar/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -28,7 +28,7 @@
 		"ProgramID" : "PROG004",
 		"Organisation" : "BRIS",
 		"Titel" : "BRIS stödhelger",
-		"Beskrivning" : "På Bris stödhelger får föräldrar stöd i föräldraskapet, sorgen och saknaden och barnen möjlighet att få stöd från jämnåriga. ",
+		"Beskrivning" : "På Bris stödhelger får föräldrar stöd i föräldraskapet, sorgen och saknaden och barnen möjlighet att få stöd från jämnåriga.",
 		"Lank" : "<a href=\"https://www.bris.se/for-barn-och-unga/prata-med-oss/gruppstod/nar-en-foralder-tagit-sitt-liv/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -44,7 +44,7 @@
 		"ProgramID" : "PROG006",
 		"Organisation" : "Randiga huset",
 		"Titel" : "Mötesplats familj",
-		"Beskrivning" : "Mötesplats En grupp för barn och familjer som har förlorat en närstående i dödsfall. \nGenom samtal och kreativa uttryck får de hjälp att bearbeta sorgen.",
+		"Beskrivning" : "En grupp för barn och familjer som har förlorat en närstående i dödsfall. Genom samtal och kreativa uttryck får de hjälp att bearbeta sorgen.",
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -52,7 +52,7 @@
 		"ProgramID" : "PROG007",
 		"Organisation" : "Randiga huset",
 		"Titel" : "Mötesplats Ungdom",
-		"Beskrivning" : "En grupp för barn mellan 14 och 18 år som har förlorat en närstående i dödsfall. \nGenom samtal och gemensamma aktiviteter får deltagarna möjlighet att dela erfarenheter, sätta ord på känslor och bearbeta sin sorg.",
+		"Beskrivning" : "En grupp för barn mellan 14 och 18 år som har förlorat en närstående i dödsfall. Genom samtal och gemensamma aktiviteter får deltagarna möjlighet att dela erfarenheter, sätta ord på känslor och bearbeta sin sorg.",
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -60,7 +60,7 @@
 		"ProgramID" : "PROG008",
 		"Organisation" : "Randiga huset",
 		"Titel" : "Mötesplats Förälder",
-		"Beskrivning" : "En grupp för föräldrar till barn som har förlorat en närstående i dödsfall.  Grupperna leds av utbildade gruppledare och utgår från familjens förutsättningar och barnens behov. ",
+		"Beskrivning" : "En grupp för föräldrar till barn som har förlorat en närstående i dödsfall. Grupperna leds av utbildade gruppledare och utgår från familjens förutsättningar och barnens behov.",
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -84,7 +84,7 @@
 		"ProgramID" : "PROG011",
 		"Organisation" : "Svenska kyrkan Borås",
 		"Titel" : "Stödgrupp när ett syskon har  dött",
-		"Beskrivning" : "Grupp för barn och ungdomar som har ett syskon som har dött och  vill träffa andra unga som är i liknande situation. ",
+		"Beskrivning" : "Grupp för barn och ungdomar som har ett syskon som har dött och  vill träffa andra unga som är i liknande situation.",
 		"Lank" : "<a href=\"https://www.svenskakyrkan.se/boras/stod-i-sorg\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -100,7 +100,7 @@
 		"ProgramID" : "PROG013",
 		"Organisation" : "Bräcke Diakoni - Helhetsvården",
 		"Titel" : "Stödgrupp för unga och familjer i sorg",
-		"Beskrivning" : "När ens närstående dör är det vanligt att uppleva att ingen förstår eller lyssnar. Det kan hjälpa att prata med någon som förstår. Deltagarna delas in i grupperna:\nBarn mellan 8–12 år\nTonåringar\nUnga vuxna\nFöräldrar",
+		"Beskrivning" : "När ens närstående dör, är det vanligt att uppleva att ingen förstår eller lyssnar. Det kan hjälpa att prata med någon som förstår. Deltagarna delas in i grupperna:\nBarn mellan 8–12 år\nTonåringar\nUnga vuxna\nFöräldrar",
 		"Lank" : "<a href=\"https://brackediakoni.se/bracke-hospice-helhetsvarden/stodgrupper/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -164,7 +164,7 @@
 		"ProgramID" : "PROG021",
 		"Organisation" : "BRIS",
 		"Titel" : "Bris stödlinje 116 111",
-		"Beskrivning" : "Bris är Sveriges nationella stödlinje för barn upp till 18 år. Via telefon, SMS, chatt och mejl kan barn dygnet runt få prata med en utbildad kurator. Stödlinjen är öppen dygnet runt, det är kostnadsfritt och helt anonymt.                     ",
+		"Beskrivning" : "Bris är Sveriges nationella stödlinje för barn upp till 18 år. Via telefon, SMS, chatt och mejl kan barn dygnet runt få prata med en utbildad kurator. Stödlinjen är öppen dygnet runt, det är kostnadsfritt och helt anonymt.",
 		"Lank" : "<a href=\"https://www.bris.se/for-barn-och-unga/prata-med-oss/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -180,7 +180,7 @@
 		"ProgramID" : "PROG023",
 		"Organisation" : "Gyllingen",
 		"Titel" : "Öppen förskola",
-		"Beskrivning" : "För föräldar som har erfarenhet av egen psykisk ohälsa och har barn upp till 6 år. Den psykiska ohälsan kan ha uppkommit i samband med föräldraskapet eller ha funnits innan.",
+		"Beskrivning" : "För föräldrar som har erfarenhet av egen psykisk ohälsa och har barn upp till 6 år. Den psykiska ohälsan kan ha uppkommit i samband med föräldraskapet eller ha funnits innan.",
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/vadvigor/gyllingen/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -204,7 +204,7 @@
 		"ProgramID" : "PROG026",
 		"Organisation" : "Gyllingen",
 		"Titel" : "Rådgivande samtal för vuxna",
-		"Beskrivning" : "Vi erbjuder rådgivande samtal för föräldrar,anhöriga eller de som möter vår målgrupp i sitt arbete.",
+		"Beskrivning" : "Vi erbjuder rådgivande samtal för föräldrar, anhöriga eller de som möter vår målgrupp i sitt arbete.",
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/radgivande-samtal-for-vuxna/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -212,7 +212,7 @@
 		"ProgramID" : "PROG027",
 		"Organisation" : "Gyllingen",
 		"Titel" : "Kurs för anhöriga föräldrar",
-		"Beskrivning" : "För partner som har barn tillsammans med en person som har psykisk ohälsa eller sjukdom erbjuder vi en kurs. Som partner påverkas man på olika sätt av att leva nära någon som är sjuk. ",
+		"Beskrivning" : "För partner som har barn tillsammans med en person som har psykisk ohälsa eller sjukdom erbjuder vi en kurs. Som partner påverkas man på olika sätt av att leva nära någon som är sjuk.",
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/kurs-for-anhoriga-foraldrar/\" target=\"_blank\">Länk</a>"
 	},
 	{
@@ -246,13 +246,5 @@
 		"Titel" : "Barnombud",
 		"Beskrivning" : "Barnombud finns för att barn och unga mellan 12-17 år ska ha någon som lyssnar, stöttar och står på deras sida – en trygg person som ser till att deras röster blir hörda i kontakter med myndigheter mm.",
 		"Lank" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/barnombud/?gad_source=1&gad_campaignid=22521144396&gclid=CjwKCAjwxfjGBhAUEiwAKWPwDojW_2oPRcV1YYTbcmlhmi4Bg31oUILARqt6Epz2t9V1bi625sJPIRoC65gQAvD_BwE\" target=\"_blank\">Länk</a>"
-	},
-	{
-		"json_featuretype" : "Programdefinitioner",
-		"ProgramID" : null,
-		"Organisation" : null,
-		"Titel" : null,
-		"Beskrivning" : null,
-		"Lank" : "<a href=\"\" target=\"_blank\">Länk</a>"
 	}
 ]
