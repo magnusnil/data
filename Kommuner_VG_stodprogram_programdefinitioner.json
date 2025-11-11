@@ -46,9 +46,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "BRIS stödhelger. På Bris stödhelger får föräldrar stöd i föräldraskapet, sorgen och saknaden och barnen möjlighet att få stöd från jämnåriga. ",
 		"Lank" : "<a href=\"https://www.bris.se/for-barn-och-unga/prata-med-oss/gruppstod/nar-en-foralder-tagit-sitt-liv/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : null,
+		"Psykisk störning och psykisk funktionsnedsättning" : null,
+		"Allvarlig sjukdom eller skada" : null,
 		"Dödsfall" : "Ja"
 	},
 	{
@@ -57,7 +57,7 @@
 		"Organisation" : "BRIS",
 		"Titel" : "BRIS Stödlinje 116 111",
 		"Digitalt" : "Ja",
-		"Beskrivning" : "Bris är Sveriges nationella stödlinje för barn upp till 18 år. Via telefon, SMS, chatt och mejl kan barn dygnet runt få prata med en utbildad kurator. Stödlinjen är öppen dygnet runt, det är kostnadsfritt och helt anonymt.                     ",
+		"Beskrivning" : "BRIS är Sveriges nationella stödlinje för barn upp till 18 år. Via telefon, SMS, chatt och mejl kan barn dygnet runt få prata med en utbildad kurator. Stödlinjen är öppen dygnet runt, det är kostnadsfritt och helt anonymt.                     ",
 		"Lank" : "<a href=\"https://www.bris.se/for-barn-och-unga/prata-med-oss/\" target=\"_blank\">Länk</a>",
 		"Missbruk och beroende" : "Ja",
 		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
@@ -217,7 +217,7 @@
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/vadvigor/gyllingen/\" target=\"_blank\">Länk</a>",
 		"Missbruk och beroende" : "Ja",
 		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -228,9 +228,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "Här kan barn och unga träffa andra barn och unga som har det liknande hemma.  Då kan det kännas lättare att prata om det som är svårt.",
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/gruppstod-och-oppen-verksamhet-for-dig-som-ar-7-till-18-ar/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -241,9 +241,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "Vi erbjuder rådgivande samtal för föräldrar,anhöriga eller de som möter vår målgrupp i sitt arbete.",
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/radgivande-samtal-for-vuxna/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -254,9 +254,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "För partner som har barn tillsammans med en person som har psykisk ohälsa eller sjukdom erbjuder vi en kurs. Som partner påverkas man på olika sätt av att leva nära någon som är sjuk.",
 		"Lank" : "<a href=\"https://www.gyllenkroken.se/kurs-for-anhoriga-foraldrar/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -267,9 +267,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "SOS Barnbyar har ett ungdomsprogram som stöttar ungdomar mellan 16 - 25 år som varit placerade exempelvis på HVB, familjehem etc.",
 		"Lank" : "<a href=\"https://sos-barnbyar.se/app/uploads/2021/10/Ungdomsprogram-G%C3%B6teborg-Info-till-ungdomar.pdf\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -280,9 +280,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "SOS Barnbyar har ett familjestärkande program för att barn ska kunna växa upp i en trygg familj istället för att riskera att skiljas från sina föräldrar.",
 		"Lank" : "<a href=\"https://sos-barnbyar.se/familjepartner/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -293,9 +293,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "Barnombud finns för att barn och unga mellan 12-17 år ska ha någon som lyssnar, stöttar och står på deras sida – en trygg person som ser till att deras röster blir hörda i kontakter med myndigheter mm.",
 		"Lank" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/barnombud/?gad_source=1&gad_campaignid=22521144396&gclid=CjwKCAjwxfjGBhAUEiwAKWPwDojW_2oPRcV1YYTbcmlhmi4Bg31oUILARqt6Epz2t9V1bi625sJPIRoC65gQAvD_BwE\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -306,9 +306,9 @@
 		"Digitalt" : "Ja",
 		"Beskrivning" : "Vår chatt är till för ungdomar mellan 13-19 år som har det jobbigt hemma. Chatten är ett bra första steg att börja berätta om hur det är. Öppet alla dagar 20-22.",
 		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/digital-kurator/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -319,9 +319,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "Helgläger är till för ungdomar mellan 13–17 år som bor i södra Sverige och som har en förälder som har ett missbruk, mår psykiskt dåligt eller utövar våld.",
 		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/helglager/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -332,9 +332,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "Ungdomsgård för ungdomar 13–19 år som har en förälder som har ett missbruk, mår psykiskt dåligt eller brukar våld.",
 		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/ungdomsgard/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -345,9 +345,9 @@
 		"Digitalt" : "Ja",
 		"Beskrivning" : "På Maskrosbarn jobbar kuratorer som själva haft det jobbigt under sin uppväxt och som finns här för att lyssna, stötta och ge råd kring de frågor och funderingar barnen har.",
 		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/stodsamtal/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	},
 	{
@@ -358,9 +358,9 @@
 		"Digitalt" : "Nej",
 		"Beskrivning" : "Coachen är ett vuxet maskrosbarn som vet hur det kan kännas att ha det jobbigt hemma. Coach träffar barnen en gång i veckan.",
 		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/coachprogram/\" target=\"_blank\">Länk</a>",
-		"Missbruk och beroende" : "Nej",
-		"Psykisk störning och psykisk funktionsnedsättning" : "Nej",
-		"Allvarlig sjukdom eller skada" : "Nej",
+		"Missbruk och beroende" : "Ja",
+		"Psykisk störning och psykisk funktionsnedsättning" : "Ja",
+		"Allvarlig sjukdom eller skada" : "Ja",
 		"Dödsfall" : "Nej"
 	}
 ]
