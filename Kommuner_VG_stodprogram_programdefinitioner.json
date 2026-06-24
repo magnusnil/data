@@ -19,7 +19,7 @@
 		"Organisation" : "BRIS",
 		"Titel" : "Träffa en kurator, BRIS",
 		"Digitalt" : "Nej",
-		"Beskrivning" : "På våra mottagningar möter vi barn som mår dåligt på något sätt för att för att ge stöd kring det som är viktigt för just det barnet. Alla barn upp till 18 år är välkomna.",
+		"Beskrivning" : "För barn upp till 18 år som vill träffa en kurator finns möjligheten på vår Brismottagning i centrala Göteborg. Vi erbjuder individuella stödsamtal med barnet, familjesamtal, samt stöd och vägledning i kontakten med andra stödinstanser. Vi kan ses flera gånger över tid och anpassar alltid stödet efter barnets behov.",
 		"Lank" : "<a href=\"https://www.bris.se/for-barn-och-unga/prata-med-oss/traffa-en-kurator/\" target=\"_blank\">Länk</a>",
 		"Missbruk" : "X",
 		"Psykisk" : "X",
@@ -79,7 +79,7 @@
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>",
 		"Missbruk" : null,
 		"Psykisk" : null,
-		"Fysisk" : "X",
+		"Fysisk" : null,
 		"Vald" : null,
 		"Dodsfall" : "X"
 	},
@@ -93,7 +93,7 @@
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>",
 		"Missbruk" : null,
 		"Psykisk" : null,
-		"Fysisk" : "X",
+		"Fysisk" : null,
 		"Vald" : null,
 		"Dodsfall" : "X"
 	},
@@ -107,7 +107,7 @@
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>",
 		"Missbruk" : null,
 		"Psykisk" : null,
-		"Fysisk" : "X",
+		"Fysisk" : null,
 		"Vald" : null,
 		"Dodsfall" : "X"
 	},
@@ -115,13 +115,13 @@
 		"json_featuretype" : "Programlista",
 		"Program" : "PROG9",
 		"Organisation" : "Randiga Huset",
-		"Titel" : "Mötesplats Förälder, Randiga Huset",
+		"Titel" : "Mötesplats Viktig Vuxen, Randiga Huset",
 		"Digitalt" : "Nej",
-		"Beskrivning" : "En grupp för föräldrar till barn som har förlorat en närstående i dödsfall.  Grupperna leds av utbildade gruppledare och utgår från familjens förutsättningar och barnens behov.",
+		"Beskrivning" : "En grupp för viktiga vuxna runt barn i sorg som har förlorat en närstående i dödsfall. Grupperna leds av utbildade gruppledare och utgår från familjens förutsättningar och barnens behov. ",
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>",
 		"Missbruk" : null,
 		"Psykisk" : null,
-		"Fysisk" : "X",
+		"Fysisk" : null,
 		"Vald" : null,
 		"Dodsfall" : "X"
 	},
@@ -149,7 +149,7 @@
 		"Lank" : "<a href=\"https://www.randigahuset.se/stod\" target=\"_blank\">Länk</a>",
 		"Missbruk" : null,
 		"Psykisk" : null,
-		"Fysisk" : "X",
+		"Fysisk" : null,
 		"Vald" : null,
 		"Dodsfall" : "X"
 	},
@@ -263,7 +263,7 @@
 		"Psykisk" : "X",
 		"Fysisk" : null,
 		"Vald" : null,
-		"Dodsfall" : "X"
+		"Dodsfall" : null
 	},
 	{
 		"json_featuretype" : "Programlista",
@@ -328,7 +328,7 @@
 		"Titel" : "Ungdomsprogram när placeringen upphör, SOS Barnbyar",
 		"Digitalt" : "Nej",
 		"Beskrivning" : "SOS Barnbyar har ett ungdomsprogram som stöttar ungdomar mellan 16 - 25 år som varit placerade exempelvis på HVB, familjehem etc.",
-		"Lank" : "<a href=\"https://sos-barnbyar.se/app/uploads/2021/10/Ungdomsprogram-G%C3%B6teborg-Info-till-ungdomar.pdf\" target=\"_blank\">Länk</a>",
+		"Lank" : "<a href=\"https://sos-barnbyar.se/vart-arbete-i-sverige/efter-placering/ungdomsprogram/\" target=\"_blank\">Länk</a>",
 		"Missbruk" : "X",
 		"Psykisk" : "X",
 		"Fysisk" : "X",
@@ -370,12 +370,12 @@
 		"Titel" : "Chatta med oss, Maskrosbarn",
 		"Digitalt" : "Ja",
 		"Beskrivning" : "Vår chatt är till för ungdomar mellan 13-19 år som har det jobbigt hemma. Chatten är ett bra första steg att börja berätta om hur det är. Öppet alla dagar 20-22.",
-		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/digital-kurator/\" target=\"_blank\">Länk</a>",
+		"Lank" : "<a href=\"https://maskrosbarn.org/aktiviteter-stod/for-ungdomar/chatt/\" target=\"_blank\">Länk</a>",
 		"Missbruk" : "X",
 		"Psykisk" : "X",
-		"Fysisk" : "X",
+		"Fysisk" : null,
 		"Vald" : "X",
-		"Dodsfall" : "X"
+		"Dodsfall" : null
 	},
 	{
 		"json_featuretype" : "Programlista",
